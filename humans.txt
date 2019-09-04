@@ -1,0 +1,14 @@
+/* Person */
+
+Initially designed and coded by Jaka Kranjc in 2012.
+
+Task:		2017 Redesign + Bugfixes in JS&PHP                             
+Person: 	Lukasz Sobek
+Email: 		lukaszsobek [at] me [dot] com
+Website:	http://sobek.pl
+
+
+/* Website */
+
+Standards: HTML, CSS, JavaScript, PHP
+Components: Bootstrap, jQuery

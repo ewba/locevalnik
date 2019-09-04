@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+	<meta charset="UTF-8"/>
+	<title>Kam s tem odpadkom?</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Stran namenjena pomoči pri ločevanju odpadkov">
+	<link rel="author" href="humans.txt">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+	<link rel="stylesheet" href="assets/styles/style.css"/>
+
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navigation">
+  <div class="container">
+		<div class="navbar-header navbar-right">
+			<button type="button" name="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" aria-label="Menu">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+
+			<a class="navbar-brand" href="http://ebm.si">
+				Ekologi brez meja
+			</a>
+		</div>
+
+		<div class="nav navbar-collapse collapse">
+			<ul class="nav navbar-nav">
+				<li><a href="#kam">Kam?</a></li>
+				<li><a href="#razsirjena">Razširjena odgovornost</a></li>
+				<li><a href="#popravila">Popravila</a></li>
+				<li><a href="#uporabni">Še uporabni predmeti</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+
+<header id="kam" name="toplink">
+	<div class="container">
+
+		<div class="bgContainer">
+			<div class="headerBlob">
+
+			 	<h1>Kam s tem odpadkom?</h1>
+
+				<p>
+				Na tej strani boste našli konkretne informacije, kako pravilno ločeno zbrati več kot 150 vrst odpadkov v različnih slovenskih občinah.
+				</p>
+
+				<form class="form-inline form-search text-center" action="/" method="POST">
+						<input type="search" class="search-query" autocomplete="off" id="obc" placeholder="Občina" aria-label="Občina" autofocus>
+						<input type="search" class="search-query" autocomplete="off" id="odp" placeholder="Odpadek" aria-label="Odpadek">
+				</form>
+					
+			</div> <!-- end headerBlob -->
+
+			<div id="rezultat"></div>
+		</div>
+
+	</div>
+</header>
+
+<section class="important">
+	<div class="container">
+		<h3>Pomembno</h3>
+
+		<div class="smallbox">
+			<p>
+			Večino odpadkov lahko oddate v zbirnih centrih, nekatere pa tudi v premične zbiralnice. Tukaj so prikazane <strong>najpreprostejše</strong> možnosti — oddaja v zabojnik za ločeno zbiranje ima prednost pred zbirnim centrom, ker je prvih več in so primerni le za nekaj vrst odpadkov.
+			</p>
+		</div>
+	</div>
+</section>
+
+<section id="Minutiae">
+	<div class="container">
+		<h2>Minutiae</h2>
+
+		<p>
+		Če smo spustili kakšen zanimiv odpadek ali naredili napako, nam lahko pišete na <i class="icon-envelope"></i><a href="mailto:info@ocistimo.si?subject=locevalnik"><span class="glyphicon glyphicon-envelope"></span> info@ocistimo.si</a>.
+		</p>
+
+		<p>
+		Kaj kam sodi bodo vedno najbolje vedeli v podjetju, ki pri vas opravlja javno komunalno storitev zbiranja odpadkov.<br/> Večina ima <a href="komunale-za-splet.pdf">spletne strani</a>, kjer so na voljo natančnejša navodila in <b>izjeme pri sprejemanju odpadkov</b> (npr. azbest, pomije in radioaktivni odpadki), druge koristne informacije ter ažurni kontaktni podatki.<span id="epr">&nbsp;</span>
+		</p>
+	</div>
+</section> <!-- end Minutiae -->
+
+
+<section id="razsirjena">
+	<div class="container">
+		<h2>Razširjena odgovornost proizvajalca</h2>
+
+		<p>
+		Po sistemu <em>razširjene odgovornosti proizvajalca</em>, lahko nekatere odpadke vrnete nazaj v izvorne trgovine, ob nakupu podobnih izdelkov (plinske sijalke tudi brez nakupa). Mednje sodijo:
+		</p>
+
+		<ul>
+			<li>odpadna zdravila (v lekarne)</li>
+			<li>odpadne baterije in akumulatorje (v mnogih trgovinah)</li>
+			<li>odpadna fitofarmacevtska sredstva</li>
+			<li>odpadno električno in elektronsko <abbr title="Od sredine leta 2015 mora vsaka prodajalna z vsaj 400m² prodajnih površin brezplačno prevzeti e-odpadke.">opremo</abbr>; sprejemajo jo tudi proizvajalci in prevzemniki (Zeos (<a href="http://e-odpadki.zeos.si/sl/stari-aparati/prevzemna-mesta.html" target="_blank" rel="noopener">karta</a>), Interseroh, ...)</li>
+			<li>izrabljene gume (zastonj pri vulkanizerju - ob menjavi); sprejemajo jih tudi prevzemniki izrabljenih pnevmatik (Slopak, ...)</li>
+			<li>odpadna motorna vozila</li>
+		</ul>
+
+		<p>
+		Odpadnih olj ne smemo zlivati v kanalizacijo, ker bi tvegali onesnaženje podtalnice. V Sloveniji jih je zato treba voziti v zbirne centre, od koder jih potem za predelavo v biodizel izvozijo v države EU (pri nas ni predelovalcev).
+		</p>
+
+		<p>
+		Lokacije zbirnih centrov so zbrane na portalu <a href="http://www.lep-planet.si/zbirni-centri-v-vasi-okolici" target="_blank" rel="noopener">Lep Planet</a>.
+		</p>
+	</div>
+</section>
+
+
+<section id="popravila">
+	<div class="container">
+		<h2>Popravila</h2>
+
+		<p>
+		Za vse izdelke velja <a href="http://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_sl.htm" target="_blank" rel="noopener">zakonsko obvezna garancija</a> in v tem času vam proizvajalci in njihovi pooblaščenci te izdelke popravijo zastonj ali pa po potrebi zamenjajo.
+		</p>
+
+		<p>
+		Vendar se tudi po preteku garancije da in splača popraviti mnogo predmetov. Na strani Manj je več lahko najdete <a href="https://manjjevec.si/karta-mojstrov/" target="_blank" rel="noopener">seznam različnih mojstrov</a>, ki to znajo.
+		</p>
+	</div>
+</section>
+
+
+<section id="uporabni">
+	<div class="container">
+		<h2>Kam pa z uporabnimi predmeti?</h2>
+		
+		<p>
+		Ne, niso za staro šaro. Oglejte si <a href="https://manjjevec.si/koledar_dogodkov/" target="_blank" rel="noopener">različne dogodke</a>, kjer je možno rabljene predmete izmenjati, <a href="http://www.podarimo.si" target="_blank" rel="noopener">podariti</a>, prodati ... Stran <a href="https://manjjevec.si/" target="_blank" rel="noopener">Manj je več</a> vsebuje tudi seznam vseh centrov ponovne uporabe, kjer zbrane predmete popravljajo, nadgrajujejo in prodajajo po nizkih cenah, da bi jim podaljšali življensko dobo.
+		</p>
+
+		<p>
+		Uporabne predmete, obleke, šolske potrebščine, belo tehniko (itd.) lahko oddate različnim karitativnim organizacijam kot sta Karitas in Rdeči Križ.
+		</p>
+	</div>
+</section>
+
+
+<footer class="container-fluid">
+	<div class="text-center">
+		<a href="#toplink" aria-label="Back to top"><span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span></a>
+		&nbsp;&nbsp;
+		&copy;
+		<a href="http://ebm.si" target="_blank" rel="noopener">Društvo Ekologi brez meja</a>
+	</div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="assets/scripts/lib/bootstrap3-typeahead.min.js"></script>
+
+<script src="assets/scripts/script.js"></script>
+
+</body>
+</html>

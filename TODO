@@ -1,0 +1,33 @@
+ločevalnik:
+  + storage revamp
+    + za večji pregled, manj napak in večjo odpornost
+  + convert list wastes (več odpadkov v imenu) to aliases (ne pozabi dodat tudi v typeahead na pravo mesto)
+  + english
+  + pregled in prečistek komentarjev komunal
+  + karta (kje sem? Kateri podatki manjkajo) - glej debato z lukaszom
+    + dodaj še za zeosove zabojnike
+  + offline mobile app — samo kot wrapper?
+  + dinamične kategorije zabojnikov/sistemov
+s  + dodatno označi primerne odpadke, da se v rezultat avtomatsko lahko predlaga še EPR/Uporabno
+  - html5 geolocator? Ni dovolj natančno.
+
+  
+KOMUNALE BREZ PODATKOV:
+      4 "KSP d.d. Se?ana",1
+++      2 "JKP Slovenj Gradec d.o.o."
+?      2 "JPK d.o.o. Mozirje"
+      2 "Komunalno podjetje Ormož d.o.o."
+d      2 "JPKSP Litija d.o.o."
+kamnik - delno napačni
+
+janjini?? 
+      2 "KSP KOSTAK d.d."
+      
+praktika 4:
++      1 "KP Ilirska Bistrica"
++      1 "KP Tr?i? d.o.o."
+l      1 "Avtoprevozni?tvo Martin Frelih s.p." 
++      1 "Komunala d.o.o. Sevnica"
+
+nezainteresirani
+@      1 "Komunala Vitanje"

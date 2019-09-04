@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title></title>
+    <meta charset="UTF-8"/>
+    <meta content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="//code.jquery.com/jquery.min.js"></script>
+		<script type="text/javascript" src="assets/scripts/lib/beforeAfter.js"></script>
+		<script type="text/javascript">
+			$(
+				() => $('#demo').beforeAfter()
+			);
+		</script>
+		<style>
+			*{
+				margin:0;
+				padding:0;
+			}
+			.row{
+				width:100%;
+				height:auto;
+			}
+			.block{
+				width:1250px;
+				height:auto;
+				margin:0 auto;
+			} 
+    </style>
+  </head>
+  <body>
+  
+	<div class="row">
+		<div class="block">
+			<div id="demo">
+				<div><img alt="before" src="assets/images/v1.jpg" width="1250" height="870"></div>
+				<div><img alt="after" src="assets/images/v2.jpg" width="1250" height="870"></div>
+			</div>
+		</div>
+	</div>
+  
+  </body>
+</html>
