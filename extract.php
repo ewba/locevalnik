@@ -63,12 +63,13 @@ if (empty($cptip)) {
   exit;
 }
 
-$fop = fopen($dataFolder.'sezcist-20150606.csv', 'r');
+// preberi vse podatke
+$komunale = file_get_contents($dataFolder . 'komunale.json');
+if ($komunale) $komunale = json_decode($komunale);
 $fmap = fopen($dataFolder.'komunale-za-obmap.csv', 'r');
 $fstev = fopen($dataFolder.'odpadki.ostevilceni.csv', 'r');
-if (! $fop || ! $fmap || !$fstev) {
+if (! $komunale || ! $fmap || !$fstev) {
   echo "Ne morem odpreti datoteke!! Pišite na bofh@ebm.si!";
-  fclose($fop);
   fclose($fmap);
   fclose($fstev);
   exit;
@@ -107,7 +108,6 @@ if (empty($ckomunala)) {
   $msg = "Manjkajo podatki komunalnega podjetja za $pname. ";
   $msg .= getStatsDesc($oid);
   echo json_encode(array("error"=> "$msg"));
-  fclose($fop);
   fclose($fmap);
   fclose($fstev);
   exit;
@@ -117,23 +117,19 @@ if ($izjema != 0) {
   $msg = getStatsDesc($oid);
   $msg .= "<br/>Komunalno podjetje '$komunala', ki pokriva občino $pname ima zelo poseben sistem zbiranja odpadkov, ki tu ne more biti primerno prikazan. Podatke boste dobili na njihovi spletni strani ali po telefonu.";
     echo json_encode(array("error"=>"$msg"));
-  fclose($fop);
   fclose($fmap);
   fclose($fstev);
   exit;
 }
 
 
-// cline 14 so odpadki
 $found = 0;
-while(($cline = fgetcsv($fop, 10000, ",")) !== FALSE) {
-// echo  "$cline[0]|$cpname|$pname|" .strtoupper(preg_replace('/[^-A-Za-z ,)(.]*/','', trim($cline[0]))) . "+VS+" . strtoupper($komunala) . "|<br>";
-// echo "$cline[12]<br><br>";
-  if (strtoupper(preg_replace('/[^-A-Za-z ,)(.]*/','', trim($cline[0]))) == strtoupper($ckomunala)) {
-    $opombe = preg_replace('/\n/','</div><div class="item">',$cline[12]);
+foreach($komunale as $naziv => $podatki) {
+  if (strtoupper(preg_replace('/[^-A-Za-z ,)(.]*/','', trim($naziv))) == strtoupper($ckomunala)) {
+    $opombe = preg_replace('/\n/', '</div><div class="item">', $podatki->{"koši"});
 
     // razbij odpadke (o1:8 o2:6 o3:3 o4:5)
-    $odpadki = explode(" ", $cline[14]);
+    $odpadki = explode(" ", $podatki->{"odpadki"});
     // najdi $ptip v $odpadki in pretvori v 0-8 indeks za kam
     $odpadek = $odpadki[$oid]; // npr. o1:8
     $odpadek = $odpadek[strlen($odpadek)-1]; // npr. 8
@@ -158,7 +154,6 @@ if ($found === 0) {
 }
 
 //echo "eeee: $i";
-fclose($fop);
 fclose($fmap);
 fclose($fstev);
 

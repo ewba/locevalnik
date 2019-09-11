@@ -1,3 +1,10 @@
+2019:
+- popravi generate-summary.py za spremembo v json
+- shrani "izjemo" v komunala.json in izbriši iz ...obmap.csv; dovolj je test za prazno polje "odpadki"
+
+http://www.convertcsv.com/csv-to-json.htm je odličen za pretvorbe
+
+
 ločevalnik:
   + storage revamp
     + za večji pregled, manj napak in večjo odpornost
