@@ -227,6 +227,16 @@ box-sizing: content-box;
 	margin: 10px 0 0 0;
 }
 
+#rezultat .item .izjema-item {
+	border-bottom: 1px dashed #3F3B26;
+}
+
+#rezultat .alert a,
+#rezultat .alert a:visited {
+	color: #3F3B26;
+	font-weight: bold;
+}
+
 .alert .item::first-letter {
 	text-transform: uppercase;
 }

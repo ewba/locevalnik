@@ -1,6 +1,8 @@
 2019:
 - popravi generate-summary.py za spremembo v json
 - shrani "izjemo" v komunala.json in izbriši iz ...obmap.csv; dovolj je test za prazno polje "odpadki"
+- pretvori ...obmap.csv v json in dodaj podatke kosovni/gradbeni kot člane
+  - spiši primerno csv2json skripto (npr. py), ker bomo podatke v prihodnje posodabljali
 
 http://www.convertcsv.com/csv-to-json.htm je odličen za pretvorbe
 
