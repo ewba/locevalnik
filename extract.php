@@ -129,7 +129,8 @@ foreach($komunale as $naziv => $podatki) {
     $opombe = preg_replace('/\n/', '</div><div class="item">', $podatki->{"koši"});
 
     // razbij odpadke (o1:8 o2:6 o3:3 o4:5)
-    $odpadki = explode(" ", $podatki->{"odpadki"});
+    // dodatni presledki, da " ne konča kot del prvega/zadnjega elementa
+    $odpadki = explode(" ", " " . $podatki->{"odpadki"} . " ");
     // najdi $ptip v $odpadki in pretvori v 0-8 indeks za kam
     $odpadek = $odpadki[$oid]; // npr. o1:8
     $odpadek = $odpadek[strlen($odpadek)-1]; // npr. 8
