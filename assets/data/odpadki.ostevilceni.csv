@@ -1,172 +1,173 @@
-1,"Azbestna kritina"
-1,"Salonitke"
-1,"Valovitke"
-2,"Aerosolni sprej pločevinke"
-3,"Agrumi (sadje)"
-3,"Pomaranča"
-3,"Limona"
-4,"ALU folija"
-4,"Aluminij"
-4,"Kovinska folija"
-5,"ALU pločevinke"
-6,"Ampule (steklene)"
-7,"Akumulatorji"
-7,"Avtomobilski akumulator"
-8,"Alkalije"
-8,"Lugi"
-9,"Barve, laki"
-9,"Maziva, WD40, Antifriz"
-10,"Baterije"
-11,"Blister (ovoj za tablete)"
-12,"Zeleni Odrez"
-12,"Božično drevesce (les)"
-13,"Božično drevesce (umetno)"
-14,"Brošure"
-15,"Celofan"
-16,"Cigaretne škatlice - papir"
-17,"Cigaretni ogorki, pepel, čiki"
-18,"CD (zgoščenka)"
-19,"CD - plastičen ovitek"
-20,"CD - papirnat ovitek"
-21,"Cvetje (drevje, rože)"
-22,"Čajne filter vrečke"
-23,"Časopis"
-24,"Čevlji, škornji, copati (uporabni)"
-25,"Čistila, pralni praški"
-26,"DVD (zgoščenka)"
-27,"Steklena embalaža"
-28,"Elastika, gumica"
-29,"Elektronska oprema"
-29,"Gospodinjski aparati, bela tehnika"
-29,"Hladilnik, zmrzovalnik, grelec za vodo"
-29,"Štedilnik, pečica, multipraktik, mešalnik"
-30,"Fiole (steklene)"
-31,"Fiole (plastične)"
-32,"Fluorescentne cevi in sijalke"
-33,"Folije (salam itd.)"
-34,"Foto albumi"
-35,"Fotografije in negativi"
-36,"Gradbeni odpadki iz gospodinjstev (opeka, ploščice, beton)"
-37,"Igrače brez baterij"
-38,"Izolacijski material"
-39,"Iztrebki malih živali (v vrečki)"
-40,"Jedilna olja (olivno, sončnično, bučno ...)"
-41,"Jogurtovi lončki"
-42,"Jajčne lupine, jajca"
-43,"Karton"
-44,"Kartonska embalaža za jajca"
-45,"Kartonska embalaža - tetrapak"
-46,"Katalogi - papirnati"
-47,"Kavni usedki"
-48,"Kaseta (radio)"
-49,"Keramika"
-50,"Kemikalije"
-51,"Kisline"
-52,"Knjižne platnice (karton)"
-53,"Knjižne platnice (TRDE)"
-54,"Strani knjig, učbenikov"
-55,"Konzerve"
-56,"Kozarec - steklen"
-57,"Kozarec - plastičen"
-57,"Plastični lonček"
-58,"Kozarec - papirnat"
-58,"Papirnati lonček"
-59,"Kozmetika (ličila, kreme, šamponi, deodoranti, mila, šminke)"
-60,"Kosti (večje)"
-61,"Kosti (drobne)"
-62,"Lasje, nohti"
-63,"Lepenka"
-64,"Lepilo"
-65,"Lestenci"
-66,"Listje"
-67,"Likalnik"
-68,"Lončki (jogurtov, namazov itd.)"
-69,"Mačja stelja, iztrebki"
-70,"Meso in mesni izdelki"
-70,"Salame, zrezki, surovo meso"
-71,"Motorna olja"
-72,"Nahrbtnik"
-73,"Novoletne lučke"
-74,"Obleke, majice, puloverji, hlače, krila, jakne, plašči"
-74,"Kape, rokavice, šali"
-75,"Obrezine z vrta"
-76,"Obrezine žive meje"
-77,"Odeja"
-78,"Odsluženo (motorno) vozilo, avtomobil"
-79,"Okraski in spominki"
-80,"Olupki sadja in zelenjave"
-81,"Ostanki hrane (NE meso)"
-82,"Ovojni papir"
-83,"Ovitek (od masla itd.)"
-84,"Papir"
-85,"Papir (plastificiran)"
-86,"Papir (peko)"
-87,"Papirnate vrečke"
-88,"Papirnati prtički"
-89,"Pepel (drva)"
-90,"Pepel (premogov)"
-91,"Pesticidi"
-92,"Peresnice"
-93,"Pisarniški material"
-94,"Pisala (kuliji, flomastri, markerji)"
-95,"Plenice"
-96,"Plevel"
-97,"Plastenke (PET)"
-98,"Plastična posoda"
-99,"Plastične vrečke"
-100,"Plastične folije"
-101,"Plastična embalaža čistil"
-102,"Plenice"
-103,"Pločevinke (pijača, konzerve)"
-104,"Pluta (zamaški)"
-105,"Pnevmatike (avtomobilske zračnice), gume"
-106,"Pokrovi - kovinski"
-107,"Plastični pokrovi, zamaški"
-108,"Posoda - emajlirana"
-109,"Pomije"
-110,"Računalnik"
-111,"Radio"
-112,"Revije"
-113,"Reklamni letaki"
-114,"Rože"
-115,"Sadje"
-116,"Sanitarni odpadki"
-117,"Steklenice"
-118,"Steklenice - razbito"
-119,"Stekleničke (parfumov)"
-120,"Steklo - (ravno)"
-121,"Stiropor"
-122,"Šolske in druge torbe"
-123,"Škatlica (zdravil, kozmetike itd.)"
-124,"Tapete"
-125,"Tekstil - neuporaben"
-126,"Tetrapak"
-127,"Tesnila"
-128,"Televizija, TV, ekran, monitor"
-129,"Tiskalnik"
-130,"Topila"
-131,"Tube (zobne paste, kreme itd.)"
-132,"Trava"
-133,"Uporabljeni higienski izdelki"
-134,"Vatirane palčke"
-135,"Vata"
-136,"Veje"
-137,"Vileda"
-138,"Zavese"
-139,"Zelenjava"
-140,"Zemlja lončnic"
-141,"Zdravila, tablete"
-142,"Zobna ščetka"
-143,"Zvezki"
-144,"Žaganje"
-145,"Žarnice - steklene"
-146,"Žarnice - varčne"
-147,"Živalska dlaka"
-148,"Žvečilni gumiji"
-149,"Bencin, kurilno olje, špirit, tekoča goriva"
-150,"Kartuše, tonerji"
-151,"Mobilni telefoni, GSM, mobiteli"
-152,"Pnevmatike (kolesarske zračnice), gume"
-153,"Termometri"
-154,"Osvežilci zraka"
-155,"Žeblji, vijaki, matice, vzmeti"
+1,Azbestna kritina,gradbeni
+1,Salonitke,gradbeni
+1,Valovitke,gradbeni
+2,Aerosolni sprej pločevinke,
+3,Agrumi (sadje),
+3,Pomaranča,
+3,Limona,
+4,ALU folija,
+4,Aluminij,
+4,Kovinska folija,
+5,ALU pločevinke,
+6,Ampule (steklene),
+7,Akumulatorji,
+7,Avtomobilski akumulator,
+8,Alkalije,
+8,Lugi,
+9,"Barve, laki",
+9,"Maziva, WD40, Antifriz",
+10,Baterije,
+11,Blister (ovoj za tablete),
+12,Zeleni odrez,
+12,Božično drevesce (les),
+13,Božično drevesce (umetno),
+14,Brošure,
+15,Celofan,
+16,Cigaretne škatlice - papir,
+17,"Cigaretni ogorki, pepel, čiki",
+18,CD (zgoščenka),
+19,CD - plastičen ovitek,
+20,CD - papirnat ovitek,
+21,"Cvetje (drevje, rože)",
+22,Čajne filter vrečke,
+23,Časopis,
+24,"Čevlji, škornji, copati (uporabni)",
+25,"Čistila, pralni praški",
+26,DVD (zgoščenka),
+27,Steklena embalaža,
+28,"Elastika, gumica",
+29,Elektronska oprema,
+29,"Gospodinjski aparati, bela tehnika",
+29,"Hladilnik, zmrzovalnik, grelec za vodo",
+29,"Štedilnik, pečica, multipraktik, mešalnik",
+30,Fiole (steklene),
+31,Fiole (plastične),
+32,Fluorescentne cevi in sijalke,
+33,Folije (salam itd.),
+34,Foto albumi,
+35,Fotografije in negativi,
+36,"Gradbeni odpadki iz gospodinjstev (opeka, ploščice, beton)",gradbeni
+37,Igrače brez baterij,
+38,Izolacijski material,gradbeni
+39,Iztrebki malih živali (v vrečki),
+40,"Jedilna olja (olivno, sončnično, bučno ...)",
+41,Jogurtovi lončki,
+42,"Jajčne lupine, jajca",
+43,Karton,
+44,Kartonska embalaža za jajca,
+45,Kartonska embalaža - tetrapak,
+46,Katalogi - papirnati,
+47,Kavni usedki,
+48,Kaseta (radio),
+49,Keramika,
+50,Kemikalije,
+51,Kisline,
+52,Knjižne platnice (karton),
+53,Knjižne platnice (TRDE),
+54,"Strani knjig, učbenikov",
+55,Konzerve,
+56,Kozarec - steklen,
+57,Kozarec - plastičen,
+57,Plastični lonček,
+58,Kozarec - papirnat,
+58,Papirnati lonček,
+59,"Kozmetika (ličila, kreme, šamponi, deodoranti, mila, šminke)",
+60,Kosti (večje),
+61,Kosti (drobne),
+62,"Lasje, nohti",
+63,Lepenka,
+64,Lepilo,
+65,Lestenci,
+66,Listje,
+67,Likalnik,
+68,"Lončki (jogurtov, namazov itd.)",
+69,"Mačja stelja, iztrebki",
+70,Meso in mesni izdelki,
+70,"Salame, zrezki, surovo meso",
+71,Motorna olja,
+72,Nahrbtnik,
+73,Novoletne lučke,
+74,"Obleke, majice, puloverji, hlače, krila, jakne, plašči",
+74,"Kape, rokavice, šali",
+75,Obrezine z vrta,
+76,Obrezine žive meje,
+77,Odeja,
+78,"Odsluženo (motorno) vozilo, avtomobil",
+79,Okraski in spominki,
+80,Olupki sadja in zelenjave,
+81,Ostanki hrane (NE meso),
+82,Ovojni papir,
+83,Ovitek (od masla itd.),
+84,Papir,
+85,Papir (plastificiran),
+86,Papir (peko),
+87,Papirnate vrečke,
+88,Papirnati prtički,
+89,Pepel (drva),
+90,Pepel (premogov),
+91,Pesticidi,
+92,Peresnice,
+93,Pisarniški material,
+94,"Pisala (kuliji, flomastri, markerji)",
+95,Plenice,
+96,Plevel,
+97,Plastenke (PET),
+98,Plastična posoda,
+99,Plastične vrečke,
+100,Plastične folije,
+101,Plastična embalaža čistil,
+102,Plenice,
+103,"Pločevinke (pijača, konzerve)",
+104,Pluta (zamaški),
+105,"Pnevmatike (avtomobilske zračnice), gume",
+106,Pokrovi - kovinski,
+107,"Plastični pokrovi, zamaški",
+108,Posoda - emajlirana,
+109,Pomije,
+110,Računalnik,
+111,Radio,
+112,Revije,
+113,Reklamni letaki,
+114,Rože,
+115,Sadje,
+116,Sanitarni odpadki,
+117,Steklenice,
+118,Steklenice - razbito,
+119,Stekleničke (parfumov),
+120,Steklo - (ravno),
+121,Stiropor,
+122,Šolske in druge torbe,
+123,"Škatlica (zdravil, kozmetike itd.)",
+124,Tapete,
+125,Tekstil - neuporaben,
+126,Tetrapak,
+127,Tesnila,
+128,"Televizija, TV, ekran, monitor",
+129,Tiskalnik,
+130,Topila,
+131,"Tube (zobne paste, kreme itd.)",
+132,Trava,
+133,Uporabljeni higienski izdelki,
+134,Vatirane palčke,
+135,Vata,
+136,Veje,
+137,Vileda,
+138,Zavese,
+139,Zelenjava,
+140,Zemlja lončnic,
+141,"Zdravila, tablete",
+142,Zobna ščetka,
+143,Zvezki,
+144,Žaganje,
+145,Žarnice - steklene,
+146,Žarnice - varčne,
+147,Živalska dlaka,
+148,Žvečilni gumiji,
+149,"Bencin, kurilno olje, špirit, tekoča goriva",
+150,"Kartuše, tonerji",
+151,"Mobilni telefoni, GSM, mobiteli",
+152,"Pnevmatike (kolesarske zračnice), gume",
+153,Termometri,
+154,Osvežilci zraka,
+155,"Žeblji, vijaki, matice, vzmeti",
+156,Kosovni odpadki,
