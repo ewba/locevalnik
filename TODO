@@ -1,8 +1,12 @@
 2019:
+- shrani "izjemo" v komunala.json in izbriši iz ...obmap.csv
+- pri iskanju gradbenih/kosovnih odpadkov ne prekini dela, če ima občina izjemo ali
+  manjkajo ostali podatki - za gradbene in kosovne jih imamo za vse občine
 - popravi generate-summary.py za spremembo v json
-- shrani "izjemo" v komunala.json in izbriši iz ...obmap.csv; dovolj je test za prazno polje "odpadki"
 - pretvori ...obmap.csv v json in dodaj podatke kosovni/gradbeni kot člane
-  - spiši primerno csv2json skripto (npr. py), ker bomo podatke v prihodnje posodabljali
+  - spiši primerno csv2json updater skripto (npr. py), ker bomo podatke v prihodnje
+    posodabljali in izvorno bodo vedno v csv
+- dodaj komunale, za katere nam manjkajo podatki v komunale.json, da bo bolj pregledno
 
 http://www.convertcsv.com/csv-to-json.htm je odličen za pretvorbe
 
@@ -10,7 +14,7 @@ http://www.convertcsv.com/csv-to-json.htm je odličen za pretvorbe
 ločevalnik:
   + storage revamp
     + za večji pregled, manj napak in večjo odpornost
-  + convert list wastes (več odpadkov v imenu) to aliases (ne pozabi dodat tudi v typeahead na pravo mesto)
+  + convert list wastes (več odpadkov v imenu) to aliases
   + english
   + pregled in prečistek komentarjev komunal
   + karta (kje sem? Kateri podatki manjkajo) - glej debato z lukaszom
@@ -22,14 +26,11 @@ s  + dodatno označi primerne odpadke, da se v rezultat avtomatsko lahko predlag
 
   
 KOMUNALE BREZ PODATKOV:
-      4 "KSP d.d. Se?ana",1
 ++      2 "JKP Slovenj Gradec d.o.o."
 ?      2 "JPK d.o.o. Mozirje"
       2 "Komunalno podjetje Ormož d.o.o."
 d      2 "JPKSP Litija d.o.o."
 kamnik - delno napačni
-
-janjini?? 
       2 "KSP KOSTAK d.d."
       
 praktika 4:
