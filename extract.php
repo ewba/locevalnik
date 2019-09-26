@@ -41,7 +41,7 @@ function getStats($oid, $dest) {
 function getStatsDesc($oid, $dest = -1) {
   if ($dest == -1) {
     $stats = getStats($oid, $dest);
-	  return "V večini ($stats[0]%) komunal sodi $stats[1]!<br/>";
+    return "V večini ($stats[0]%) komunal sodi $stats[1]!<br/>";
   }
 
   $stats = getStats($oid, $dest);
@@ -192,7 +192,6 @@ if ($izjema != 0) {
 
 
 $found = 0;
-$spletna = "";
 foreach($komunale as $naziv => $podatki) {
   if (strtoupper(preg_replace('/[^-A-Za-z ,)(.]*/','', trim($naziv))) == strtoupper($ckomunala)) {
     $opombe = preg_replace('/\n/', '</div><div class="item">', $podatki->{"koši"});
@@ -219,7 +218,7 @@ foreach($komunale as $naziv => $podatki) {
       $kam = "$kam<div class='alert alert-info'><h3 class='alert-heading'>Informacije glede oddaje</h3>$opombe</div>";
     } else if (!empty($opombe)) {
       $opombe = '<div class="item">' . $opombe . '</div>';
-      $kam = "$kam<div class='alert alert-info'><h3 class='alert-heading'>Vrste zabojnikov / način zbiranja odpadkov</h3>$opombe</div>";
+      $kam = "$kam<div class='alert alert-info'><h3 class='alert-heading'>Vrste zabojnikov / način zbiranja odpadkov [<a href='$spletna' rel='noopener'>spletna stran</a>]</h3>$opombe</div>";
     }
 
     echo json_encode(array("name"=>"$ptip",
