@@ -192,6 +192,7 @@ if ($izjema != 0) {
 
 
 $found = 0;
+$spletna = "";
 foreach($komunale as $naziv => $podatki) {
   if (strtoupper(preg_replace('/[^-A-Za-z ,)(.]*/','', trim($naziv))) == strtoupper($ckomunala)) {
     $opombe = preg_replace('/\n/', '</div><div class="item">', $podatki->{"koši"});
@@ -199,6 +200,7 @@ foreach($komunale as $naziv => $podatki) {
     // razbij odpadke (o1:8 o2:6 o3:3 o4:5)
     // dodatni presledki, da " ne konča kot del prvega/zadnjega elementa
     $odpadki = explode(" ", " " . $podatki->{"odpadki"} . " ");
+    $spletna = $podatki->{"spletna"} ;
     // najdi $ptip v $odpadki in pretvori v 0-8 indeks za kam
     $odpadek = $odpadki[$oid]; // npr. o1:8
     $odpadek = $odpadek[strlen($odpadek)-1]; // npr. 8
@@ -228,7 +230,7 @@ foreach($komunale as $naziv => $podatki) {
   }
 }
 if ($found === 0) {
-    $msg = "<strong>Manjkajo podatki</strong> komunalnega podjetja '$komunala', ki pokriva občino $pname. Podatke boste dobili na njihovi <a href='komunale-za-splet.pdf'>spletni strani ali po telefonu</a>.";
+    $msg = "<strong>Manjkajo podatki</strong> komunalnega podjetja '$komunala', ki pokriva občino $pname. Podatke boste dobili na njihovi <a href='$spletna'>spletni strani ali po telefonu</a>.";
     echo json_encode(array("error" => "$msg"));
 //  exit;
 }
