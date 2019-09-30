@@ -75,6 +75,8 @@ function getSpecialDesc($file, $mode = "") {
       $stroski = "Ne.";
       $pogoji = "";
     }
+    if ($mode == "azbest") $stroski = "/";
+
 
     if (strpos($nacin, "center") !== FALSE) {
       $desc = <<<EEE
@@ -95,6 +97,18 @@ EEE;
 <span class='izjema-item'>Odpiralni čas:</span> $casi2<br><br>
 EEE;
       }
+    } else if ($mode == "azbest") {
+      $azbest1 = $cline[12];
+      $azbest2 = $cline[13];
+      $azbest3 = $cline[14];
+      if ($azbest2 == "n/a") $azbest2 = "/";
+      $desc .= <<<EEE
+<span class='alert-heading' style="font-weight: bold">Azbestni odpadki</span><br>
+<span class='izjema-item'>Oddaja:</span> $azbest1<br>
+<span class='izjema-item'>Opombe:</span> $azbest2<br>
+<span class='izjema-item'>Občinsko sofinanciranje oddaje:</span> $azbest3<br>
+EEE;
+      return $desc;
     }
 
     if (strpos($nacin, "akcij") !== FALSE) {
@@ -211,6 +225,8 @@ foreach($komunale as $naziv => $podatki) {
       // gradbeni imajo prednost, če je kdo slučajno označil oboje hkrati
       if ($posebnost == "gradbeni") {
         $opombe = getSpecialDesc($gradbeni, "drugi");
+      } else if ($posebnost == "azbest") {
+        $opombe = getSpecialDesc($gradbeni, "azbest");
       } else {
         $opombe = getSpecialDesc($kosovni);
       }
