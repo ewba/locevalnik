@@ -1,0 +1,2120 @@
+{
+    "CIRKULANE": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "CERO Gajke",
+       "NASLOV ZC": "Dornavska cesta 26, 2250 Ptuj",
+       "ODPIRALNI ČAS": "1.4-31-10 pon - pet 8-20, sob 8-14; 1.11-31.3 pon-pet 8-17, sob 8-14",
+       "POVEZAVA": "https://www.js-ptuj.si/odpadki/zbirni-center"
+    },
+    "DESTRNIK": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "CERO Gajke",
+       "NASLOV ZC": "Dornavska cesta 26, 2250 Ptuj",
+       "ODPIRALNI ČAS": "1.4-31-10 pon - pet 8-20, sob 8-14; 1.11-31.3 pon-pet 8-17, sob 8-14",
+       "POVEZAVA": "https://www.js-ptuj.si/odpadki/zbirni-center"
+    },
+    "DUPLEK": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "ZC Duplek",
+       "NASLOV ZC": "režijski obrat Duplek",
+       "ODPIRALNI ČAS": "pon 13-16, sre 11-18, pet 10-17, sob 8-11",
+       "POVEZAVA": "http://cistomesto.si/images/documents/Urniki/cisto-mesto-urnik-duplek-1-2018.pdf"
+    },
+    "KIDRIČEVO": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "ZC Kidričevo",
+       "NASLOV ZC": "Njiverce, cesta za Talum",
+       "ODPIRALNI ČAS": "poleti: tor, čet 10-18, sob 8-13; pozimi tor, čet: 9-17, sob 8-13",
+       "POVEZAVA": "http://cistomesto.si/images/documents/Urniki/cisto-mesto-urnik-duplek-1-2018.pdf"
+    },
+    "MAJŠPERK": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "ZC Majšperk",
+       "NASLOV ZC": "pri čistilni napravi Majšperk",
+       "ODPIRALNI ČAS": "tor: 13-16, pet: 10-17, sob 8-11",
+       "POVEZAVA": "http://cistomesto.si/images/documents/Urniki/cisto-mesto-urnik-majsperk-2018.pdf"
+    },
+    "PODLEHNIK": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "ZC Žetale",
+       "NASLOV ZC": "naselje Dobrina",
+       "ODPIRALNI ČAS": "tor: 9-12, pet: 10-17, sob 12-15",
+       "POVEZAVA": "https://www.podlehnik.si/files/other/news/178/117625ZBIRNI%20CENTRI.pdf"
+    },
+    "SVETI ANDRAŽ V SLOVENSKIH GORICAH": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "ZC Trnovska vas",
+       "NASLOV ZC": "pri režijskem obratu Trnovska vas",
+       "ODPIRALNI ČAS": "pon: 9-12, čet: 10-17, sob: 12-15",
+       "POVEZAVA": "https://www.sv-andraz.si/post/7438"
+    },
+    "TRNOVSKA VAS": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "ZC Trnovska vas",
+       "NASLOV ZC": "pri režijskem obratu Trnovska vas",
+       "ODPIRALNI ČAS": "pon: 9-12, čet: 10-17, sob: 12-15",
+       "POVEZAVA": "http://cistomesto.si/images/documents/Urniki/cisto-mesto-urniki-trnovska-vas-2018.pdf"
+    },
+    "VIDEM": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "ZC Videm",
+       "NASLOV ZC": "industrijska cona Videm",
+       "ODPIRALNI ČAS": "pon 9-12, sre: 10-17, sob: 8-11",
+       "POVEZAVA": "http://cistomesto.si/images/documents/Urniki/cisto-mesto-urnik-videm-2018.pdf"
+    },
+    "ZAVRČ": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "CERO Gajke",
+       "NASLOV ZC": "Dornavska cesta 26, 2250 Ptuj",
+       "ODPIRALNI ČAS": "1.4-31-10 pon - pet 8-20, sob 8-14; 1.11-31.3 pon-pet 8-17, sob 8-14",
+       "POVEZAVA": "https://www.js-ptuj.si/odpadki/zbirni-center"
+    },
+    "ŽETALE": {
+       "KOMUNALA": "Čisto mesto Ptuj d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Občani, ki so vključeni v odvoz odpadkov in se identificirajo z zadnjim odrezkom položnice.",
+       "ZBIRNI CENTER": "ZC Žetale",
+       "NASLOV ZC": "naselje Dobrina",
+       "ODPIRALNI ČAS": "tor 9-12, pet: 10-17, sob: 12-15",
+       "POVEZAVA": "http://www.cistomesto.si/images/documents/Urniki/cisto-mesto-urnik-zetale-2018.pdf"
+    },
+    "LENDAVA": {
+       "KOMUNALA": "Eko park d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 2,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "?",
+       "ZBIRNI CENTER": "ZC Dolga vas",
+       "NASLOV ZC": "Dolgovaške Gorice 166b, 9220 Lendava",
+       "ODPIRALNI ČAS": "tor, pet: 12-16",
+       "POVEZAVA": "https://www.lendava.si/sl/objave/obratovanje-zbirnega-centra-dolga-vas"
+    },
+    "ŽIRI": {
+       "KOMUNALA": "Frelih bus",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument ali plačan račun komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Osojnica",
+       "NASLOV ZC": "Žiri 30, 4226 Žiri",
+       "ODPIRALNI ČAS": "tor: 17-20, sre 10-14 in 17-20, pet 10-14, sob 10-13",
+       "POVEZAVA": "https://www.ziri.si/objava/57683"
+    },
+    "BLED": {
+       "KOMUNALA": "Inrastruktura Bled",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument ali plačan račun komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Bled",
+       "NASLOV ZC": "Rečiška cesta 2, Bled",
+       "ODPIRALNI ČAS": "pod-pet 7.00-19.00, sob 8.00-12.00.",
+       "POVEZAVA": "https://www.infrastruktura-bled.si/"
+    },
+    "GORJE": {
+       "KOMUNALA": "Inrastruktura Bled",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument ali plačan račun komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Bled",
+       "NASLOV ZC": "Rečiška cesta 2, Bled",
+       "ODPIRALNI ČAS": "pod-pet 7.00-19.00, sob 8.00-12.00.",
+       "POVEZAVA": "https://www.infrastruktura-bled.si/"
+    },
+    "DORNAVA": {
+       "KOMUNALA": "Javne službe Ptuj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačana zadnja položnica",
+       "ZBIRNI CENTER": "CERO Gajke",
+       "NASLOV ZC": "Dornavska cesta 26, 2250 Ptuj",
+       "ODPIRALNI ČAS": "(1.4-31.10) pon-pet 8-20; 1.11-31.3) pon-pet 8-17, ",
+       "POVEZAVA": "https://www.js-ptuj.si/odpadki/zbirni-center"
+    },
+    "PTUJ": {
+       "KOMUNALA": "Javne službe Ptuj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačana zadnja položnica",
+       "ZBIRNI CENTER": "CERO Gajke",
+       "NASLOV ZC": "Dornavska cesta 26, 2250 Ptuj",
+       "ODPIRALNI ČAS": "(1.4-31.10) pon-pet 8-20; 1.11-31.3) pon-pet 8-17, ",
+       "POVEZAVA": "https://www.js-ptuj.si/odpadki/zbirni-center"
+    },
+    "ILIRSKA BISTRICA": {
+       "KOMUNALA": "Javno podjetje komunala Ilirska Bistrica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Plačan zadnji račun komunalnih storitev.",
+       "ZBIRNI CENTER": "ZC Ilirska bistrica",
+       "NASLOV ZC": "Prešernova 7, 6250 Ilirska Bistrica",
+       "ODPIRALNI ČAS": "po, sre, pet: 7-15, tor, čet: 12-18, sob: 8-12",
+       "POVEZAVA": "http://www.kp-ilb.si/obrazci/splet2.pdf"
+    },
+    "DRAVOGRAD": {
+       "KOMUNALA": "JKP Dravograd",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija.",
+       "ZBIRNI CENTER": "Otiški vrh",
+       "NASLOV ZC": "Otiški Vrh 0 N, 2370 Dravograd",
+       "ODPIRALNI ČAS": "pon-pet 8-15, tor 8-17; 1. sob 9-12. 3. sob (mar, apr, maj) 9-12",
+       "POVEZAVA": "http://jkp-dravograd.si/obvestila/zbirni-center-otiski-vrh-obratovalni-cas"
+    },
+    "DOBREPOLJE": {
+       "KOMUNALA": "JKP Grosuplje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija.",
+       "ZBIRNI CENTER": "CERO Špaja Dolina",
+       "NASLOV ZC": "Spodnje Blato 1, 1290 Grosuplje",
+       "ODPIRALNI ČAS": "15.3-14-11: pon-pet 7-19, sob 8-15; 15.11-14.3: pon-pet 7-16, sob 8-13",
+       "POVEZAVA": "https://www.jkpg.si/cero-spaja-dolina-stranski-meni"
+    },
+    "GROSUPLJE": {
+       "KOMUNALA": "JKP Grosuplje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija.",
+       "ZBIRNI CENTER": "CERO Špaja Dolina",
+       "NASLOV ZC": "Spodnje Blato 1, 1290 Grosuplje",
+       "ODPIRALNI ČAS": "15.3-14-11: pon-pet 7-19, sob 8-15; 15.11-14.3: pon-pet 7-16, sob 8-13",
+       "POVEZAVA": "https://www.jkpg.si/cero-spaja-dolina-stranski-meni"
+    },
+    "IVANČNA GORICA": {
+       "KOMUNALA": "JKP Grosuplje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija.",
+       "ZBIRNI CENTER": "CERO Špaja Dolina",
+       "NASLOV ZC": "Spodnje Blato 1, 1290 Grosuplje",
+       "ODPIRALNI ČAS": "15.3-14-11: pon-pet 7-19, sob 8-15; 15.11-14.3: pon-pet 7-16, sob 8-13",
+       "POVEZAVA": "https://www.jkpg.si/cero-spaja-dolina-stranski-meni"
+    },
+    "JESENICE": {
+       "KOMUNALA": "JKP JEKO d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "predložitev položnice o plačanih komunalnih storitvah",
+       "ZBIRNI CENTER": "ZC Jesenice",
+       "NASLOV ZC": "Cesta Franceta Prešerna 13, 4270 Jesenice",
+       "ODPIRALNI ČAS": "pon 8-17, tor-pet: 8-15, sob 8-13",
+       "POVEZAVA": "http://www.jeko.si/en/ravnanje-z-odpadki"
+    },
+    "ŽIROVNICA": {
+       "KOMUNALA": "JKP JEKO d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "predložitev položnice o plačanih komunalnih storitvah",
+       "ZBIRNI CENTER": "ZC Žirovnica",
+       "NASLOV ZC": "v poslovni coni Žirovnica",
+       "ODPIRALNI ČAS": "pon 8-13, sre 14-19, sob 8-14",
+       "POVEZAVA": "https://zirovnica.si/zbirni-center-zirovnica-odprt/"
+    },
+    "ČRNA NA KOROŠKEM": {
+       "KOMUNALA": "JKP Log",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Lokovica",
+       "NASLOV ZC": "Lokovica 7 X, 2391 Prevalje",
+       "ODPIRALNI ČAS": "(1.4-31.10) pon 8-18, tor-pet 8-15, 1. in 3. sob: 9-12; (1.11-31.3) pon-pet 8-15, 1. in 3. sob 9-12",
+       "POVEZAVA": "http://www.jkp-log.si/o-podjetju/delovni-cas.html"
+    },
+    "MEŽICA": {
+       "KOMUNALA": "JKP Log",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Lokovica",
+       "NASLOV ZC": "Lokovica 7 X, 2391 Prevalje",
+       "ODPIRALNI ČAS": "(1.4-31.10) pon 8-18, tor-pet 8-15, 1. in 3. sob: 9-12; (1.11-31.3) pon-pet 8-15, 1. in 3. sob 9-12",
+       "POVEZAVA": "http://www.jkp-log.si/o-podjetju/delovni-cas.html"
+    },
+    "PREVALJE": {
+       "KOMUNALA": "JKP Log",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Lokovica",
+       "NASLOV ZC": "Lokovica 7 X, 2391 Prevalje",
+       "ODPIRALNI ČAS": "(1.4-31.10) pon 8-18, tor-pet 8-15, 1. in 3. sob: 9-12; (1.11-31.3) pon-pet 8-15, 1. in 3. sob 9-12",
+       "POVEZAVA": "http://www.jkp-log.si/o-podjetju/delovni-cas.html"
+    },
+    "RAVNE NA KOROŠKEM": {
+       "KOMUNALA": "JKP Log",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Lokovica",
+       "NASLOV ZC": "Lokovica 7 X, 2391 Prevalje",
+       "ODPIRALNI ČAS": "(1.4-31.10) pon 8-18, tor-pet 8-15, 1. in 3. sob: 9-12; (1.11-31.3) pon-pet 8-15, 1. in 3. sob 9-12",
+       "POVEZAVA": "http://www.jkp-log.si/o-podjetju/delovni-cas.html"
+    },
+    "MUTA": {
+       "KOMUNALA": "JKP Radlje ob Dravi",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Radlje",
+       "NASLOV ZC": "Mariborska cesta, 2360 Radlje ob Dravi",
+       "ODPIRALNI ČAS": "pon-pet 8-15, tor 8-17, sob 8-12",
+       "POVEZAVA": "http://www.jkp-radlje.si/delovni_cas_zbirnih_centrov"
+    },
+    "PODVELKA": {
+       "KOMUNALA": "JKP Radlje ob Dravi",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Radlje",
+       "NASLOV ZC": "Mariborska cesta, 2360 Radlje ob Dravi",
+       "ODPIRALNI ČAS": "pon-pet 8-15, tor 8-17, sob 8-12",
+       "POVEZAVA": "http://www.jkp-radlje.si/delovni_cas_zbirnih_centrov"
+    },
+    "RADLJE OB DRAVI": {
+       "KOMUNALA": "JKP Radlje ob Dravi",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Radlje",
+       "NASLOV ZC": "Mariborska cesta, 2360 Radlje ob Dravi",
+       "ODPIRALNI ČAS": "pon-pet 8-15, tor 8-17, sob 8-12",
+       "POVEZAVA": "http://www.jkp-radlje.si/delovni_cas_zbirnih_centrov"
+    },
+    "RIBNICA NA POHORJU": {
+       "KOMUNALA": "JKP Radlje ob Dravi",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Radlje",
+       "NASLOV ZC": "Mariborska cesta, 2360 Radlje ob Dravi",
+       "ODPIRALNI ČAS": "pon-pet 8-15, tor 8-17, sob 8-12",
+       "POVEZAVA": "http://www.jkp-radlje.si/delovni_cas_zbirnih_centrov"
+    },
+    "VUZENICA": {
+       "KOMUNALA": "JKP Radlje ob Dravi",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Radlje",
+       "NASLOV ZC": "Mariborska cesta, 2360 Radlje ob Dravi",
+       "ODPIRALNI ČAS": "pon-pet 8-15, tor 8-17, sob 8-12",
+       "POVEZAVA": "http://www.jkp-radlje.si/delovni_cas_zbirnih_centrov"
+    },
+    "SLOVENSKE KONJICE": {
+       "KOMUNALA": "JKP Slovenske Konjice",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija z odrezkom",
+       "ZBIRNI CENTER": "CERO Slovenske Konjice",
+       "NASLOV ZC": "Prežigal 9, Slovenske Konjice",
+       "ODPIRALNI ČAS": "pon, čet, pet: 7-15, tor, sre: 7-19, sob 8-12",
+       "POVEZAVA": "https://www.jkp-konjice.si/objave/255"
+    },
+    "CERKNICA": {
+       "KOMUNALA": "JP Komunala Cerknica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačane komunalne storitve",
+       "ZBIRNI CENTER": "ZC Cerknica",
+       "NASLOV ZC": "Notranjska cesta 44, 1380 Cerknica (po glavn cesti mimo upravne stavbe, pri soseski Za mlinom desno)",
+       "ODPIRALNI ČAS": "tor: poleti 12-18 in pozimi 11-17, sre, čet, pet 8-15, sob 8-12",
+       "POVEZAVA": "http://www.komunala-cerknica.si/dejavnosti/zbirni-center/"
+    },
+    "LOŠKA DOLINA": {
+       "KOMUNALA": "JP Komunala Cerknica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačane komunalne storitve",
+       "ZBIRNI CENTER": "ZC Cerknica",
+       "NASLOV ZC": "Notranjska cesta 44, 1380 Cerknica (po glavn cesti mimo upravne stavbe, pri soseski Za mlinom desno)",
+       "ODPIRALNI ČAS": "tor: poleti 12-18 in pozimi 11-17, sre, čet, pet 8-15, sob 8-12",
+       "POVEZAVA": "http://www.komunala-cerknica.si/dejavnosti/zbirni-center/"
+    },
+    "MOZIRJE": {
+       "KOMUNALA": "JP Komunala Mozirje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "odrezek zadnje položnice komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Loke pri Mozirju",
+       "NASLOV ZC": "glejte sliko v povezavi",
+       "ODPIRALNI ČAS": "pon-pet 7-15; sob 8-12",
+       "POVEZAVA": "http://komunala-mozirje.si/wp-content/uploads/ZBIRNI-CENTER-MOZIRJE-1.pdf"
+    },
+    "REČICA OB SAVINJI": {
+       "KOMUNALA": "JP Komunala Mozirje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "odrezek zadnje položnice komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Loke pri Mozirju",
+       "NASLOV ZC": "glejte sliko v povezavi",
+       "ODPIRALNI ČAS": "pon-pet 7-15; sob 8-12",
+       "POVEZAVA": "http://komunala-mozirje.si/wp-content/uploads/ZBIRNI-CENTER-MOZIRJE-1.pdf"
+    },
+    "RADEČE": {
+       "KOMUNALA": "JPK Radeče",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "dokazilo o plačanih komunalnih storitvah",
+       "ZBIRNI CENTER": "ZC Hotemež",
+       "NASLOV ZC": "Hotemež 27, 1433 Radeče",
+       "ODPIRALNI ČAS": "sre 10-14, sob 8-12",
+       "POVEZAVA": "http://www.komunala-radece.si/wp-content/uploads/2014/06/Gospodarjenje-z-gospodinjskimi-komunalnimi-odpadki.doc"
+    },
+    "BOHINJ": {
+       "KOMUNALA": "Komunala Bohinj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija.",
+       "ZBIRNI CENTER": "ZC",
+       "NASLOV ZC": "za Režijskim obratom v Bohinjski Bistrici",
+       "ODPIRALNI ČAS": "Poleti - pon: 7-18, sre: 7-18, sob: 7-12 Pozimi: pon 7-16, sre: 7-16, sob: 8-12",
+       "POVEZAVA": "https://obcina.bohinj.si/objava/111745"
+    },
+    "BREŽICE": {
+       "KOMUNALA": "Komunala Brežice",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZRC Boršt",
+       "NASLOV ZC": "400 m iz naselja Krška vas na desno (smer Cerklje ob Krki)",
+       "ODPIRALNI ČAS": "pon-pet 7-19, (1.11 - 28.2) 7-17, sob 8-13",
+       "POVEZAVA": "https://www.komunala-brezice.si/zbirno-reciklazni-center-borst"
+    },
+    "ČRNOMELJ": {
+       "KOMUNALA": "Komunala Črnomelj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "ZC Vranoviči",
+       "NASLOV ZC": "ob odlagališču Vranoviči",
+       "ODPIRALNI ČAS": "pon-pet 9-14 in 15-17, sob 8-13",
+       "POVEZAVA": "http://www.komunala-crnomelj.si/clanek1.asp?nm_tbl_cate.id=19&id=10&n=Podcenter%20za%20ravnanje%20z%20odpadki"
+    },
+    "SEMIČ": {
+       "KOMUNALA": "Komunala Črnomelj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "ZC Semič",
+       "NASLOV ZC": "Šolska ulica 10, 8333 Semič",
+       "ODPIRALNI ČAS": "pon-pet 9-17, sob 9-13",
+       "POVEZAVA": "http://www.komunala-crnomelj.si/clanek1.asp?nm_tbl_cate.id=19&id=10&n=Podcenter%20za%20ravnanje%20z%20odpadki"
+    },
+    "CERKNO": {
+       "KOMUNALA": "Komunala Idrija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačane komunalne storitve",
+       "ZBIRNI CENTER": "ZC Cerkno",
+       "NASLOV ZC": "lokacija čistilne naprave Cerkno",
+       "ODPIRALNI ČAS": "čet: 11-14, sob: 7-10",
+       "POVEZAVA": "http://www.cerkno.si/javni-zavodi-in-sluzbe/ravnanje-z-odpadki/zbirni-center-cerkno/"
+    },
+    "IDRIJA": {
+       "KOMUNALA": "Komunala Idrija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačane komunalne storitve",
+       "ZBIRNI CENTER": "ZC Ljubevč",
+       "NASLOV ZC": "Partizanska ulica, 5280 Idrija",
+       "ODPIRALNI ČAS": "pon, tor, čet, pet 7-15, sre 7-19, sob 7-11; pozimi v sre 7-16",
+       "POVEZAVA": "http://www.cerkno.si/javni-zavodi-in-sluzbe/ravnanje-z-odpadki/zbirni-center-cerkno/"
+    },
+    "IZOLA": {
+       "KOMUNALA": "Komunala Izola",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "občani z zadnjim odrezkom plačila komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Izola",
+       "NASLOV ZC": "Industrijska cesta 8, 6310 Izola",
+       "ODPIRALNI ČAS": "pon-pet: 8-17, sob: 9-12",
+       "POVEZAVA": "https://www.komunala-izola.si/jom3/index.php/sl/dejavnosti/odlagalisce-in-zbirni-center"
+    },
+    "KOČEVJE": {
+       "KOMUNALA": "Komunala Kočevje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačane komunalne storitve",
+       "ZBIRNI CENTER": "ZC Mozelj",
+       "NASLOV ZC": "ob glavni cesti Kočevje– Livold– Stari trg ob Kolpi pri Črnomlju",
+       "ODPIRALNI ČAS": "poleti: pon-pet 7-19; pozimi: pon-pet 7-17; sob 9-13",
+       "POVEZAVA": "http://www.komunala-kocevje.si/kolaz/zbirni-center-mozelj/"
+    },
+    "KOSTEL": {
+       "KOMUNALA": "Komunala Kočevje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačane komunalne storitve",
+       "ZBIRNI CENTER": "ZC Mozelj",
+       "NASLOV ZC": "ob glavni cesti Kočevje– Livold– Stari trg ob Kolpi pri Črnomlju",
+       "ODPIRALNI ČAS": "poleti: pon-pet 7-19; pozimi: pon-pet 7-17; sob 9-13",
+       "POVEZAVA": "http://www.komunala-kocevje.si/kolaz/zbirni-center-mozelj/"
+    },
+    "JEZERSKO": {
+       "KOMUNALA": "Komunala Kranj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "do 3 m3 1x na mesec ob predložitvi osebnega dokumenta in plačane položnice za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Remont",
+       "NASLOV ZC": "4206 Zgornje Jezersko",
+       "ODPIRALNI ČAS": "pon: 18-19.30, pet 16-19; jun-avg pon 18-19.30, pet 18-21",
+       "POVEZAVA": "https://www.komunala-kranj.si/zbirni-centri"
+    },
+    "KRANJ": {
+       "KOMUNALA": "Komunala Kranj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "do 3 m3 1x na mesec ob predložitvi osebnega dokumenta in plačane položnice za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Tenetiše",
+       "NASLOV ZC": "Tenetiše, 4000 Kranj",
+       "ODPIRALNI ČAS": "pon-pet 13-19, sob 8-12; pozimi pon-pet 12-18",
+       "POVEZAVA": "https://www.komunala-kranj.si/zbirni-centri"
+    },
+    "NAKLO": {
+       "KOMUNALA": "Komunala Kranj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "do 3 m3 1x na mesec ob predložitvi osebnega dokumenta in plačane položnice za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Naklo",
+       "NASLOV ZC": "v Industrijski coni Naklo, in sicer poleg Dinosa, južno od kompleksa Merkur, z uvozom na Cesto na Okroglo Naklo.",
+       "ODPIRALNI ČAS": "tor 15-19, čet 16-20, sob 8-12; pozimi: tor 9-12, čet 14-17, sob 9-12",
+       "POVEZAVA": "https://www.komunala-kranj.si/zbirni-centri"
+    },
+    "PREDDVOR": {
+       "KOMUNALA": "Komunala Kranj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "do 3 m3 1x na mesec ob predložitvi osebnega dokumenta in plačane položnice za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Tenetiše",
+       "NASLOV ZC": "Tenetiše, 4000 Kranj",
+       "ODPIRALNI ČAS": "pon-pet 13-19, sob 8-12; pozimi pon-pet 12-18",
+       "POVEZAVA": "https://www.komunala-kranj.si/zbirni-centri"
+    },
+    "ŠENČUR": {
+       "KOMUNALA": "Komunala Kranj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "do 3 m3 1x na mesec ob predložitvi osebnega dokumenta in plačane položnice za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Šenčur",
+       "NASLOV ZC": "Nahaja se na koncu Šenčurja, ob Velesovski cesti,",
+       "ODPIRALNI ČAS": "tor 13-20, pet 13-20, sob 8-13; pozimi: tor 12-19, pet 12-19, sob 8-13",
+       "POVEZAVA": "https://www.sencur.si/informacije/zbirni-center-sencur/"
+    },
+    "KRANJSKA GORA": {
+       "KOMUNALA": "Komunala Kranjska Gora",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Tabre",
+       "NASLOV ZC": "Spodnje rute 50, 4282 Gozd Martuljek",
+       "ODPIRALNI ČAS": "pon 7-15, tor-pet 11-17, sob 8-12",
+       "POVEZAVA": "https://www.komunala-kg.si/dejavnosti/odpadki"
+    },
+    "LAŠKO": {
+       "KOMUNALA": "Komunala Laško",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "do 2x 1m3 v ZC ob predložitvi plačane položnice",
+       "ZBIRNI CENTER": "ZC Strensko",
+       "NASLOV ZC": "Modrič 6, 3270 Laško",
+       "ODPIRALNI ČAS": "sre: 13-17, sob 8-12",
+       "POVEZAVA": "https://www.komunala-lasko.si/sl/dejavnosti/ravnanje-z-odpadki"
+    },
+    "METLIKA": {
+       "KOMUNALA": "Komunala Metlika",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "1x mesečno do 3m3 brezplačno",
+       "ZBIRNI CENTER": "ZC Bočka",
+       "NASLOV ZC": "Ni podatka.",
+       "ODPIRALNI ČAS": "(1.4-31.10) pon-pet 8-18; (1.11-31.3) pon-pet 8-16; sob 8-13",
+       "POVEZAVA": "http://www.komunala-metlika.si/odpadki/zbirni-center/"
+    },
+    "BRDA": {
+       "KOMUNALA": "Komunala Nova Gorica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z osebnim dokumentom in potrdilom o poravnanih obveznostih",
+       "ZBIRNI CENTER": "ZC Brda",
+       "NASLOV ZC": "Dobrovem nasproti Gasilskega doma, Trg 25. maja, 5212\nDobrovo",
+       "ODPIRALNI ČAS": "tor: 10-12, čet: 14.30-18, sob: 7-10",
+       "POVEZAVA": "https://www.obcina-brda.si/obcina_brda/odvoz_odpadkov/zbirni_centri/"
+    },
+    "KANAL OB SOČI": {
+       "KOMUNALA": "Komunala Nova Gorica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z osebnim dokumentom in potrdilom o poravnanih obveznostih",
+       "ZBIRNI CENTER": "ZC Bodrež",
+       "NASLOV ZC": "Ni podatka.",
+       "ODPIRALNI ČAS": "tor: 14-17, sob: 7.30-9.30",
+       "POVEZAVA": "https://www.komunala-ng.si/zbiranje_in_odvoz_odpadkov/zbirni_centri/2012053012473852/"
+    },
+    "MIREN - KOSTANJEVICA": {
+       "KOMUNALA": "Komunala Nova Gorica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z osebnim dokumentom in potrdilom o poravnanih obveznostih",
+       "ZBIRNI CENTER": "ZC Miren",
+       "NASLOV ZC": "Ni podatka.",
+       "ODPIRALNI ČAS": "sre:14-17, pet:10-12.30, sob:7-10",
+       "POVEZAVA": "https://www.komunala-ng.si/zbiranje_in_odvoz_odpadkov/zbirni_centri/2012053012482612/"
+    },
+    "NOVA GORICA": {
+       "KOMUNALA": "Komunala Nova Gorica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z osebnim dokumentom in potrdilom o poravnanih obveznostih",
+       "ZBIRNI CENTER": "ZC CERO Nova Gorica",
+       "NASLOV ZC": "Ulica partizanske tehnike 6, Nova Gorica (v Stari Gorici)",
+       "ODPIRALNI ČAS": "pon-pet: 9-17, sob: 8-13",
+       "POVEZAVA": "https://www.komunala-ng.si/zbirni_center_cero/"
+    },
+    "RENČE - VOGRSKO": {
+       "KOMUNALA": "Komunala Nova Gorica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z osebnim dokumentom in potrdilom o poravnanih obveznostih",
+       "ZBIRNI CENTER": "ZC Renče-Vogrsko",
+       "NASLOV ZC": "Ni podatka.",
+       "ODPIRALNI ČAS": "pon:10-12, sre:14-17, sob:7-10",
+       "POVEZAVA": "https://komunala-ng.si/zbiranje_in_odvoz_odpadkov/zbirni_centri/2012053012402779/"
+    },
+    "ŠEMPETER - VRTOJBA": {
+       "KOMUNALA": "Komunala Nova Gorica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z osebnim dokumentom in potrdilom o poravnanih obveznostih",
+       "ZBIRNI CENTER": "ZC Šempeter-Vrtojba",
+       "NASLOV ZC": "Industrijska cona Lavžnik",
+       "ODPIRALNI ČAS": "pon: 7-9.30, pet: 14.30-17, sob: 7-10",
+       "POVEZAVA": "https://www.komunala-ng.si/zbiranje_in_odvoz_odpadkov/zbirni_centri/2012053012495144/"
+    },
+    "DOLENJSKE TOPLICE": {
+       "KOMUNALA": "Komunala Novo mesto",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZRC Novo Mesto",
+       "NASLOV ZC": "Podbevškova 12, Novo mesto",
+       "ODPIRALNI ČAS": "(nov-feb) pon-pet: 8-17;(mar-okt) pon-pet 8-18); sob 8-12\n",
+       "POVEZAVA": "https://www.komunala-nm.si/Novice/ArtMID/502/ArticleID/2756/Obratovalni-%c4%8das-zbirno-recikla%c5%benih-centrov"
+    },
+    "MIRNA PEČ": {
+       "KOMUNALA": "Komunala Novo mesto",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZRC Novo Mesto",
+       "NASLOV ZC": "Podbevškova 12, Novo mesto",
+       "ODPIRALNI ČAS": "(nov-feb) pon-pet: 8-17;(mar-okt) pon-pet 8-18); sob 8-12\n",
+       "POVEZAVA": "https://www.komunala-nm.si/Novice/ArtMID/502/ArticleID/2756/Obratovalni-%c4%8das-zbirno-recikla%c5%benih-centrov"
+    },
+    "NOVO MESTO": {
+       "KOMUNALA": "Komunala Novo mesto",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZRC Novo Mesto",
+       "NASLOV ZC": "Podbevškova 12, Novo mesto",
+       "ODPIRALNI ČAS": "(nov-feb) pon-pet: 8-17;(mar-okt) pon-pet 8-18); sob 8-12\n",
+       "POVEZAVA": "https://www.komunala-nm.si/Novice/ArtMID/502/ArticleID/2756/Obratovalni-%c4%8das-zbirno-recikla%c5%benih-centrov"
+    },
+    "STRAŽA": {
+       "KOMUNALA": "Komunala Novo mesto",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZRC Novo Mesto",
+       "NASLOV ZC": "Podbevškova 12, Novo mesto",
+       "ODPIRALNI ČAS": "(nov-feb) pon-pet: 8-17;(mar-okt) pon-pet 8-18); sob 8-12\n",
+       "POVEZAVA": "https://www.komunala-nm.si/Novice/ArtMID/502/ArticleID/2756/Obratovalni-%c4%8das-zbirno-recikla%c5%benih-centrov"
+    },
+    "ŠENTJERNEJ": {
+       "KOMUNALA": "Komunala Novo Mesto",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Šentjernej",
+       "NASLOV ZC": "Šmalčja vas",
+       "ODPIRALNI ČAS": "(okt-mar): pon-pet 11-16; (apr-sep) pon-pet 9-17; sob 8-12",
+       "POVEZAVA": "https://www.komunala-nm.si/Novice/ArtMID/502/ArticleID/2756/Obratovalni-%c4%8das-zbirno-recikla%c5%benih-centrov"
+    },
+    "ŠKOCJAN": {
+       "KOMUNALA": "Komunala Novo mesto",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZRC Novo Mesto",
+       "NASLOV ZC": "Podbevškova 12, Novo mesto",
+       "ODPIRALNI ČAS": "(nov-feb) pon-pet: 8-17;(mar-okt) pon-pet 8-18); sob 8-12\n",
+       "POVEZAVA": "https://www.komunala-nm.si/Novice/ArtMID/502/ArticleID/2756/Obratovalni-%c4%8das-zbirno-recikla%c5%benih-centrov"
+    },
+    "ŠMARJEŠKE TOPLICE": {
+       "KOMUNALA": "Komunala Novo mesto",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZRC Novo Mesto",
+       "NASLOV ZC": "Podbevškova 12, Novo mesto",
+       "ODPIRALNI ČAS": "(nov-feb) pon-pet: 8-17;(mar-okt) pon-pet 8-18); sob 8-12\n",
+       "POVEZAVA": "https://www.komunala-nm.si/Novice/ArtMID/502/ArticleID/2756/Obratovalni-%c4%8das-zbirno-recikla%c5%benih-centrov"
+    },
+    "ŽUŽEMBERK": {
+       "KOMUNALA": "Komunala Novo mesto",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZRC Žužemberk",
+       "NASLOV ZC": "V neposredni bližini žužemberške čistilne naprave v opuščenem kamnolomu.",
+       "ODPIRALNI ČAS": "sre 7-17, prv sob. v mesecu: 8-12",
+       "POVEZAVA": "http://www.zuzemberk.si/data/OBVESTILO%20o%20delovanju%20ZRC.pdf"
+    },
+    "GORIŠNICA": {
+       "KOMUNALA": "Komunala Ptuj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument ali odrezek o plačilu storitev, do 500 kg / teden",
+       "ZBIRNI CENTER": "ZC Gorišnica",
+       "NASLOV ZC": "n/a",
+       "ODPIRALNI ČAS": "sre: 10-17, pet 10-15, sob 8-11",
+       "POVEZAVA": "http://www.komunala-ptuj.si/download/odpadki_2/urniki_odvozov/TERMINSKI-PLAN-PO-NASELJIH-GORISNICA-2019-CUNKOVCI-ZAGOJICI-GORISNICA-TIBOLCI-ZAMUSANI-BRESNICA.pdf"
+    },
+    "HAJDINA": {
+       "KOMUNALA": "Komunala Ptuj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument ali odrezek o plačilu storitev, do 500 kg / teden",
+       "ZBIRNI CENTER": "ZC Hajdina",
+       "NASLOV ZC": "pri pokošališču",
+       "ODPIRALNI ČAS": "pon 13-16, sre 10-17, vsako zadnjo sob. v mesecu: 8-11",
+       "POVEZAVA": "https://www.hajdina.si/novica/75945"
+    },
+    "JURŠINCI": {
+       "KOMUNALA": "Komunala Ptuj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument ali odrezek o plačilu storitev, do 500 kg / teden",
+       "ZBIRNI CENTER": "ZC Gorišnica",
+       "NASLOV ZC": "n/a",
+       "ODPIRALNI ČAS": "sre: 10-17, pet 10-15, sob 8-11",
+       "POVEZAVA": "https://www.hajdina.si/novica/75945"
+    },
+    "MARKOVCI": {
+       "KOMUNALA": "Komunala Ptuj",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument ali odrezek o plačilu storitev, do 500 kg / teden",
+       "ZBIRNI CENTER": "ZC Markovci",
+       "NASLOV ZC": "v Industrijski coni",
+       "ODPIRALNI ČAS": "(jan-jun): pon 9-12, sre 10-17, sob 9-11; (jun-dec) tor 12-16, sre 11-18, čet 8-11, pet 10-18, sob 8-12 (2x na mesec)",
+       "POVEZAVA": "http://www.komunala-ptuj.si/download/odpadki_2/urniki_odvozov/TERMINSKI-PLAN-PO-NASELJIH-MARKOVCI-2019-NOVA-VAS-PRI-MARKOVCIH-BUKOVCI-STOJNCI.pdf"
+    },
+    "GORNJA RADGONA": {
+       "KOMUNALA": "Komunala Radgona",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in odrezek o zadnjem plačilu storitev ravnanja z odpadki",
+       "ZBIRNI CENTER": "ZC Gornja Radgona",
+       "NASLOV ZC": "Industrijska cona G. Radgona(naprej od poslovnih prostorov družbe M TRADE Gornja Radgona, d.o.o., Ljutomerska cesta in podjetja Reflex, d.o.o., Ljutomerska cesta).",
+       "ODPIRALNI ČAS": "poleti: sre: 13-17, sob 8-12, pozimi: sre 12-16, sob: 8-12",
+       "POVEZAVA": "http://www.komunala-radgona.si/index.php/odvoz-odpadkov/zbirni-center-gornja-radgona"
+    },
+    "RADOVLJICA": {
+       "KOMUNALA": "Komunala Radovljica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "odrezek plačanih komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Radovljica",
+       "NASLOV ZC": "Savska 28, Radovljica",
+       "ODPIRALNI ČAS": "pon, tor, čet, pet 8-16, sre: 8-18; sob: 8-12",
+       "POVEZAVA": "https://www.komunala-radovljica.si/storitve/zbirni-center/79"
+    },
+    "LOŠKI POTOK": {
+       "KOMUNALA": "Komunala Ribnica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "ZC Goriča vas",
+       "NASLOV ZC": "Goriča vas 11A, 1310 Ribnica",
+       "ODPIRALNI ČAS": "(1.11-31.3) pon, sre, čet, pet: 7-15, tor: 9-17, sob 8-13; (1.4-31-10) pon, sre, čet, pet: 7-15, tor: 11-19, sob 8-13",
+       "POVEZAVA": "http://www.komunala-ribnica.si/zbirni-center"
+    },
+    "RIBNICA": {
+       "KOMUNALA": "Komunala Ribnica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "ZC Goriča vas",
+       "NASLOV ZC": "Goriča vas 11A, 1310 Ribnica",
+       "ODPIRALNI ČAS": "(1.11-31.3) pon, sre, čet, pet: 7-15, tor: 9-17, sob 8-13; (1.4-31-10) pon, sre, čet, pet: 7-15, tor: 11-19, sob 8-13",
+       "POVEZAVA": "http://www.komunala-ribnica.si/zbirni-center"
+    },
+    "SODRAŽICA": {
+       "KOMUNALA": "Komunala Ribnica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "ZC Goriča vas",
+       "NASLOV ZC": "Goriča vas 11A, 1310 Ribnica",
+       "ODPIRALNI ČAS": "(1.11-31.3) pon, sre, čet, pet: 7-15, tor: 9-17, sob 8-13; (1.4-31-10) pon, sre, čet, pet: 7-15, tor: 11-19, sob 8-13",
+       "POVEZAVA": "http://www.komunala-ribnica.si/zbirni-center"
+    },
+    "SEVNICA": {
+       "KOMUNALA": "Komunala Sevnica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija z računom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Sevnica",
+       "NASLOV ZC": "na križišču za Kmečko zadrugo Sevnica in Dalijo se usmeritenaravnost v smeri proti brvi čez Savo, nato pa zavijete desno na novo urejenocestodo objekta",
+       "ODPIRALNI ČAS": "pon, čet, pet 7-15; tor, sre: 10-17; 2. sob v mesecu: 8-12",
+       "POVEZAVA": "https://www.komunala-sevnica.si/zbirni-center.html"
+    },
+    "MISLINJA": {
+       "KOMUNALA": "Komunala Slovenj Gradec",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Pameče",
+       "NASLOV ZC": "v podjetniški coni Pameče",
+       "ODPIRALNI ČAS": "pon, sre 8-18; tor, čet, pet: 8-15; sob 8-13",
+       "POVEZAVA": "http://www.komusg.si/zbirna-centra-za-odpadke-pamece-dolze"
+    },
+    "SLOVENJ GRADEC": {
+       "KOMUNALA": "Komunala Slovenj Gradec",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Pameče",
+       "NASLOV ZC": "v podjetniški coni Pameče",
+       "ODPIRALNI ČAS": "pon, sre 8-18; tor, čet, pet: 8-15; sob 8-13",
+       "POVEZAVA": "http://www.komusg.si/zbirna-centra-za-odpadke-pamece-dolze"
+    },
+    "MAKOLE": {
+       "KOMUNALA": "Komunala Slovenska Bistrica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "manjše količine 2x letno, identifikacija in predložena plačana položnica",
+       "ZBIRNI CENTER": "ZC Pragersko",
+       "NASLOV ZC": "Travniška ulica, 2331 Pragersko",
+       "ODPIRALNI ČAS": "pon-sob 7-18",
+       "POVEZAVA": "https://www.komunala-slb.si/odlagaliscaron269e-pragersko-in-zbirni-centri.html"
+    },
+    "OPLOTNICA": {
+       "KOMUNALA": "Komunala Slovenska Bistrica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "manjše količine 2x letno, identifikacija in predložena plačana položnica",
+       "ZBIRNI CENTER": "ZC Pragersko",
+       "NASLOV ZC": "Travniška ulica, 2331 Pragersko",
+       "ODPIRALNI ČAS": "pon-sob 7-18",
+       "POVEZAVA": "https://www.komunala-slb.si/odlagaliscaron269e-pragersko-in-zbirni-centri.html"
+    },
+    "POLJČANE": {
+       "KOMUNALA": "Komunala Slovenska Bistrica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "manjše količine 2x letno, identifikacija in predložena plačana položnica",
+       "ZBIRNI CENTER": "ZC Pragersko",
+       "NASLOV ZC": "Travniška ulica, 2331 Pragersko",
+       "ODPIRALNI ČAS": "pon-sob 7-18",
+       "POVEZAVA": "https://www.komunala-slb.si/odlagaliscaron269e-pragersko-in-zbirni-centri.html"
+    },
+    "RAČE - FRAM": {
+       "KOMUNALA": "Komunala Slovenska Bistrica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "manjše količine 2x letno, identifikacija in predložena plačana položnica",
+       "ZBIRNI CENTER": "ZC Rače-Fram",
+       "NASLOV ZC": "ob gramoznici SCT na Cesti talcev v Račah",
+       "ODPIRALNI ČAS": "(poleti): sre 13-18, sob 8-13; (pozimi 1.11 - 15.3) sre 13-17, sob 9-13",
+       "POVEZAVA": "http://www.race-fram.si/povezava.aspx?pid=483"
+    },
+    "SLOVENSKA BISTRICA": {
+       "KOMUNALA": "Komunala Slovenska Bistrica",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "manjše količine 2x letno, identifikacija in predložena plačana položnica",
+       "ZBIRNI CENTER": "ZC Pragersko",
+       "NASLOV ZC": "Travniška ulica, 2331 Pragersko",
+       "ODPIRALNI ČAS": "pon-sob 7-18",
+       "POVEZAVA": "https://www.komunala-slb.si/odlagaliscaron269e-pragersko-in-zbirni-centri.html"
+    },
+    "BOVEC": {
+       "KOMUNALA": "Komunala Tolmin",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, akcija",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija.",
+       "ZBIRNI CENTER": "ZC Bovec",
+       "NASLOV ZC": "pri čistilni napravi Bovec",
+       "ODPIRALNI ČAS": "tor: 13-15, sre 15-17, sob:10-12",
+       "POVEZAVA": "http://www.komunala-tolmin.si/komunalni-odpadki/zbiranje-in-odlaganje/zbirni-centri/"
+    },
+    "KOBARID": {
+       "KOMUNALA": "Komunala Tolmin",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, akcija",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija.",
+       "ZBIRNI CENTER": "ZC Kobarid",
+       "NASLOV ZC": "pri čistilni napravi Kobarid",
+       "ODPIRALNI ČAS": "tor: 13-15, sre 15-17, sob:12.30-15",
+       "POVEZAVA": "http://www.komunala-tolmin.si/komunalni-odpadki/zbiranje-in-odlaganje/zbirni-centri/"
+    },
+    "TOLMIN": {
+       "KOMUNALA": "Komunala Tolmin",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, akcija",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija.",
+       "ZBIRNI CENTER": "ZC Tolmin",
+       "NASLOV ZC": "nasproti pokopališča v naselju Volče",
+       "ODPIRALNI ČAS": "tor: 7-15, sre 7-17, sob:8-12",
+       "POVEZAVA": "http://www.komunala-tolmin.si/komunalni-odpadki/zbiranje-in-odlaganje/zbirni-centri/"
+    },
+    "TRBOVLJE": {
+       "KOMUNALA": "Komunala Trbovlje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Neža",
+       "NASLOV ZC": "Neža 39a, 1420 Trbovlje",
+       "ODPIRALNI ČAS": "pon-pet: 7-15, sob 9-13",
+       "POVEZAVA": "http://www.komunala-trbovlje.si/odpadki/odvozi"
+    },
+    "MIRNA": {
+       "KOMUNALA": "Komunala Trebnje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Globoko",
+       "NASLOV ZC": "Hudeje 40, 8210 Trebnje",
+       "ODPIRALNI ČAS": "pon-pet 7-18, sob 8-12",
+       "POVEZAVA": "https://odpiralnicasi.com/spots/komunala-trebnje-zc-globoko-trebnje-hudeje-75396b65dd"
+    },
+    "MOKRONOG - TREBELNO": {
+       "KOMUNALA": "Komunala Trebnje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Globoko",
+       "NASLOV ZC": "Hudeje 40, 8210 Trebnje",
+       "ODPIRALNI ČAS": "pon-pet 7-18, sob 8-12",
+       "POVEZAVA": "https://odpiralnicasi.com/spots/komunala-trebnje-zc-globoko-trebnje-hudeje-75396b65dd"
+    },
+    "ŠENTRUPERT": {
+       "KOMUNALA": "Komunala Trebnje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Globoko",
+       "NASLOV ZC": "Hudeje 40, 8210 Trebnje",
+       "ODPIRALNI ČAS": "pon-pet 7-18, sob 8-12",
+       "POVEZAVA": "https://odpiralnicasi.com/spots/komunala-trebnje-zc-globoko-trebnje-hudeje-75396b65dd"
+    },
+    "TREBNJE": {
+       "KOMUNALA": "Komunala Trebnje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Globoko",
+       "NASLOV ZC": "Hudeje 40, 8210 Trebnje",
+       "ODPIRALNI ČAS": "pon-pet 7-18, sob 8-12",
+       "POVEZAVA": "https://odpiralnicasi.com/spots/komunala-trebnje-zc-globoko-trebnje-hudeje-75396b65dd"
+    },
+    "TRŽIČ": {
+       "KOMUNALA": "Komunala Tržič",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "do 4m3/leto na gospodinjstvo",
+       "ZBIRNI CENTER": "ZC Kovor",
+       "NASLOV ZC": "V industrijski coni Mlaka.",
+       "ODPIRALNI ČAS": "pon-pet 7-17, sob 7-13",
+       "POVEZAVA": "http://www.komunala-trzic.si/storitve/ravnanje-z-odpadki/odlagalisce-zbirni-center-kovor"
+    },
+    "ZAGORJE OB SAVI": {
+       "KOMUNALA": "Komunala Zagorje",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC ob Savi",
+       "NASLOV ZC": "Solenja vas, 1410 Zagorje ob Savi",
+       "ODPIRALNI ČAS": "pon 10-14, sre 14-18, pet 10-14",
+       "POVEZAVA": "n/a"
+    },
+    "KOSTANJEVICA NA KRKI": {
+       "KOMUNALA": "Kostak",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "CERO Spodnji Stari Grad",
+       "NASLOV ZC": "Spodnji Stari Grad 29, 8270 Krško",
+       "ODPIRALNI ČAS": "pon-pet: mar-okt 7-19, nov-feb 7-18; sob 7-15",
+       "POVEZAVA": "https://www.kostak.si/ravnanje-z-odpadki.html"
+    },
+    "KRŠKO": {
+       "KOMUNALA": "Kostak",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "CERO Spodnji Stari Grad",
+       "NASLOV ZC": "Spodnji Stari Grad 29, 8270 Krško",
+       "ODPIRALNI ČAS": "pon-pet: mar-okt 7-19, nov-feb 7-18; sob 7-15",
+       "POVEZAVA": "https://www.kostak.si/ravnanje-z-odpadki.html"
+    },
+    "LOGATEC": {
+       "KOMUNALA": "KP Logatec",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija z odrezkom zadnje položnice",
+       "ZBIRNI CENTER": "ZC Ostri vrh",
+       "NASLOV ZC": "n/a",
+       "ODPIRALNI ČAS": "ponedeljek, sreda, četrtek, petek: od 6.30 do 14.30, sob: 7-12, torek: od 6.30 do 17.00 (od 1.aprila do 31.oktobra); 6.30 do 14.30 (od 1.novembra do 31.marca)",
+       "POVEZAVA": "http://www.kp-logatec.si/2014/komunalna_dejavnost.php?IDM=5&IDPM=60&IDPPX=12"
+    },
+    "ORMOŽ": {
+       "KOMUNALA": "Komunalno podjetje Ormož d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačana zadnja položnica",
+       "ZBIRNI CENTER": "ZC Dobrava",
+       "NASLOV ZC": "ob odlagališču nenevarnih odpadkov Dobrava – Ormož.",
+       "ODPIRALNI ČAS": "pon-pet: 7-16, sob 7-12",
+       "POVEZAVA": "http://www.kp-ormoz.si/?page_id=249"
+    },
+    "SREDIŠČE OB DRAVI": {
+       "KOMUNALA": "Komunalno podjetje Ormož d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačana zadnja položnica",
+       "ZBIRNI CENTER": "ZC Dobrava",
+       "NASLOV ZC": "ob odlagališču nenevarnih odpadkov Dobrava – Ormož.",
+       "ODPIRALNI ČAS": "pon-pet: 7-16, sob 7-12",
+       "POVEZAVA": "http://www.kp-ormoz.si/?page_id=249"
+    },
+    "SVETI TOMAŽ": {
+       "KOMUNALA": "Komunalno podjetje Ormož d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "plačana zadnja položnica",
+       "ZBIRNI CENTER": "ZC Dobrava",
+       "NASLOV ZC": "ob odlagališču nenevarnih odpadkov Dobrava – Ormož.",
+       "ODPIRALNI ČAS": "pon-pet: 7-16, sob 7-12",
+       "POVEZAVA": "http://www.kp-ormoz.si/?page_id=249"
+    },
+    "BOROVNICA": {
+       "KOMUNALA": "KP Vrhnika",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Podatki o odjemnem mestu uporabnika.",
+       "ZBIRNI CENTER": "ZC",
+       "NASLOV ZC": "Na dvorišču JP KPV",
+       "ODPIRALNI ČAS": "pon, tor, čet pet: 8-14, sre:8-17, sob: 8-14",
+       "POVEZAVA": "http://www.kpv.si/dejavnosti/ravnanje-z-odpadki/zbirni-center"
+    },
+    "LOG - DRAGOMER": {
+       "KOMUNALA": "KP Vrhnika",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Podatki o odjemnem mestu uporabnika.",
+       "ZBIRNI CENTER": "ZC",
+       "NASLOV ZC": "Na dvorišču JP KPV",
+       "ODPIRALNI ČAS": "pon, tor, čet pet: 8-14, sre:8-17, sob: 8-14",
+       "POVEZAVA": "http://www.kpv.si/dejavnosti/ravnanje-z-odpadki/zbirni-center"
+    },
+    "VRHNIKA": {
+       "KOMUNALA": "KP Vrhnika",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Podatki o odjemnem mestu uporabnika.",
+       "ZBIRNI CENTER": "ZC",
+       "NASLOV ZC": "Na dvorišču JP KPV",
+       "ODPIRALNI ČAS": "pon, tor, čet pet: 8-14, sre:8-17, sob: 8-14",
+       "POVEZAVA": "http://www.kpv.si/dejavnosti/ravnanje-z-odpadki/zbirni-center"
+    },
+    "AJDOVŠČINA": {
+       "KOMUNALA": "KSD Ajdovščina",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "CERO Ajdovščina",
+       "NASLOV ZC": "pod Dolgo Poljano",
+       "ODPIRALNI ČAS": "pon: 7-17, tor, sre, čet: 7-15, pet 7-19 (apr-okt) oz 7-17 (nov-mar), sob 8-12",
+       "POVEZAVA": "http://www.ksda.si/dejavnosti/odpadki/center-za-ravnanje-z-odpadki-cero/zbirni-center"
+    },
+    "VIPAVA": {
+       "KOMUNALA": "KSD Ajdovščina",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "CERO Ajdovščina",
+       "NASLOV ZC": "pod Dolgo Poljano",
+       "ODPIRALNI ČAS": "pon: 7-17, tor, sre, čet: 7-15, pet 7-19 (apr-okt) oz 7-17 (nov-mar), sob 8-12",
+       "POVEZAVA": "http://www.ksda.si/dejavnosti/odpadki/center-za-ravnanje-z-odpadki-cero/zbirni-center"
+    },
+    "HRASTNIK": {
+       "KOMUNALA": "KSP Hrastnik",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija z odrezkom računa.",
+       "ZBIRNI CENTER": "CEROZ Unično",
+       "NASLOV ZC": "Brdce 41 b, 1431 Dol pri Hrastniku",
+       "ODPIRALNI ČAS": "pon-pet 6-18, sob 7-12",
+       "POVEZAVA": "https://www.ksphrastnik.si/dejavnosti/odpadki.html"
+    },
+    "LITIJA": {
+       "KOMUNALA": "KSP Litija d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z odrezkom komunalnih storitev ali osebnim dokumentom.",
+       "ZBIRNI CENTER": "ZC Litija",
+       "NASLOV ZC": "Ponoviška cesta 15, 1270 Litija",
+       "ODPIRALNI ČAS": "pon 8-12, sre 13-17, pet 12-16",
+       "POVEZAVA": "http://www.ksp-litija.si/?p=1095"
+    },
+    "ŠMARTNO PRI LITIJI": {
+       "KOMUNALA": "KSP Litija d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z odrezkom komunalnih storitev ali osebnim dokumentom.",
+       "ZBIRNI CENTER": "ZC Šmartno pri Litiji",
+       "NASLOV ZC": "Grumova 6 a, 1275 Šmartno",
+       "ODPIRALNI ČAS": "tor 8-12, čet 12-16, sob 8-12",
+       "POVEZAVA": "http://www.ksp-litija.si/?p=1095"
+    },
+    "APAČE": {
+       "KOMUNALA": "KSP Ljutomer",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "zadnji odrezek komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Apače",
+       "NASLOV ZC": "Črnci– pri žagi, za tovarno TMK (parcelna številka 159/2,\nk.o. Črnci).",
+       "ODPIRALNI ČAS": "pet 12-16, sob 8-12",
+       "POVEZAVA": "http://www.ksp-ljutomer.si/index.php/zbirni-center-ljutomer"
+    },
+    "KRIŽEVCI": {
+       "KOMUNALA": "KSP Ljutomer",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "zadnji odrezek komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Ljutomer",
+       "NASLOV ZC": "<a href=\"http://www.ksp-ljutomer.si/uploads/ZC_ljutomer___spletna_stran.docx\">naslov in dostop</a>",
+       "ODPIRALNI ČAS": "pon, tor, čet, pet 7-15, sre: 7-17, sob 8-12",
+       "POVEZAVA": "http://www.ksp-ljutomer.si/index.php/zbirni-center-ljutomer"
+    },
+    "LJUTOMER": {
+       "KOMUNALA": "KSP Ljutomer",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "zadnji odrezek komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Ljutomer",
+       "NASLOV ZC": "<a href=\"http://www.ksp-ljutomer.si/uploads/ZC_ljutomer___spletna_stran.docx\">naslov in dostop</a>",
+       "ODPIRALNI ČAS": "pon, tor, čet, pet 7-15, sre: 7-17, sob 8-12",
+       "POVEZAVA": "http://www.ksp-ljutomer.si/index.php/zbirni-center-ljutomer"
+    },
+    "RAZKRIŽJE": {
+       "KOMUNALA": "KSP Ljutomer",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "zadnji odrezek komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Ljutomer",
+       "NASLOV ZC": "<a href=\"http://www.ksp-ljutomer.si/uploads/ZC_ljutomer___spletna_stran.docx\">naslov in dostop</a>",
+       "ODPIRALNI ČAS": "pon, tor, čet, pet 7-15, sre: 7-17, sob 8-12",
+       "POVEZAVA": "http://www.ksp-ljutomer.si/index.php/zbirni-center-ljutomer"
+    },
+    "VERŽEJ": {
+       "KOMUNALA": "KSP Ljutomer",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "zadnji odrezek komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Ljutomer",
+       "NASLOV ZC": "<a href=\"http://www.ksp-ljutomer.si/uploads/ZC_ljutomer___spletna_stran.docx\">naslov in dostop</a>",
+       "ODPIRALNI ČAS": "pon, tor, čet, pet 7-15, sre: 7-17, sob 8-12",
+       "POVEZAVA": "http://www.ksp-ljutomer.si/index.php/zbirni-center-ljutomer"
+    },
+    "DIVAČA": {
+       "KOMUNALA": "KSP Sežana",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "uporabniki, ki so vključeni v organiziran odvoz odpadkov in že plačujejo storitev odvoza odpadkov",
+       "ZBIRNI CENTER": "ZC Divača",
+       "NASLOV ZC": "pri Komunalni čistilni napravi Divača, pod športnimi igrišči",
+       "ODPIRALNI ČAS": "pon: 14-17, sre: 9-13, 2. in 4. sob: 9-13",
+       "POVEZAVA": "http://www.ksp-sezana.si/ravnanje-z-odpadki/zbirni-center-za-individualni-dovoz-odpadkov/divaca/"
+    },
+    "HRPELJE - KOZINA": {
+       "KOMUNALA": "KSP Sežana",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "uporabniki, ki so vključeni v organiziran odvoz odpadkov in že plačujejo storitev odvoza odpadkov",
+       "ZBIRNI CENTER": "ZC Hrpelje-Kozina",
+       "NASLOV ZC": "Na začetku OIC Hrpelje, ulica Ob dolu",
+       "ODPIRALNI ČAS": "tor: 14-17, čet: 9-13, 1. in 3. sob: 9-13",
+       "POVEZAVA": "http://www.ksp-sezana.si/ravnanje-z-odpadki/zbirni-center-za-individualni-dovoz-odpadkov/hrpelje-kozina/"
+    },
+    "KOMEN": {
+       "KOMUNALA": "KSP Sežana",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "uporabniki, ki so vključeni v organiziran odvoz odpadkov in že plačujejo storitev odvoza odpadkov",
+       "ZBIRNI CENTER": "ZC Komen",
+       "NASLOV ZC": "Na koncu Komna, cesta za Volčji Grad",
+       "ODPIRALNI ČAS": "tor:9-13, čet 14-17, sob: 9-13",
+       "POVEZAVA": "http://www.ksp-sezana.si/ravnanje-z-odpadki/zbirni-center-za-individualni-dovoz-odpadkov/komen/"
+    },
+    "SEŽANA": {
+       "KOMUNALA": "KSP Sežana",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "uporabniki, ki so vključeni v organiziran odvoz odpadkov in že plačujejo storitev odvoza odpadkov",
+       "ZBIRNI CENTER": "CERO Sežana",
+       "NASLOV ZC": "2 km iz Sežane v smeri Vrhovelj",
+       "ODPIRALNI ČAS": "poleti: pon-pet 6-19, sob 8-13; pozimi: pon-pet 7-16, sob 8-13",
+       "POVEZAVA": "http://www.ksp-sezana.si/ravnanje-z-odpadki/center-za-ravnanje-z-odpadki/sezana/"
+    },
+    "ŠKOFJA LOKA": {
+       "KOMUNALA": "Loška komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Draga",
+       "NASLOV ZC": "Draga, 4220 Škofja Loka",
+       "ODPIRALNI ČAS": "pon, tor, čet, pet: 7-15; sre: 7-19; sob 8-13",
+       "POVEZAVA": "http://www.loska-komunala.si/images/stories/dokumenti/odpadki/Letni_program_%C5%A0kofja_Loka_2019.pdf"
+    },
+    "ŽELEZNIKI": {
+       "KOMUNALA": "Loška komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Ni pogojev.",
+       "ZBIRNI CENTER": "ZC Studeno",
+       "NASLOV ZC": "Studeno 19, 4228 Železniki",
+       "ODPIRALNI ČAS": "tor, čet 15-19, sob 8-12",
+       "POVEZAVA": "http://www.loska-komunala.si/images/stories/dokumenti/odpadki/ZC-Studeno.pdf"
+    },
+    "ANKARAN": {
+       "KOMUNALA": "Marjetica Koper",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "DA - identifikacija z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "Sermin",
+       "NASLOV ZC": "Železniška cesta 10",
+       "ODPIRALNI ČAS": "pon-pet 6-18, sob 7-15",
+       "POVEZAVA": "https://www.marjeticakoper.si/sl/dejavnosti/ravnanje-z-odpadki/zbirni-centri/"
+    },
+    "KOPER": {
+       "KOMUNALA": "Marjetica Koper",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "DA - identifikacija z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "Sermin",
+       "NASLOV ZC": "Železniška cesta 10",
+       "ODPIRALNI ČAS": "pon-pet 6-18, sob 7-15",
+       "POVEZAVA": "https://www.marjeticakoper.si/sl/dejavnosti/ravnanje-z-odpadki/zbirni-centri/"
+    },
+    "OSILNICA": {
+       "KOMUNALA": "Občina Osilnica (samostojno)",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "akcija",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 2,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Le pri akciji.",
+       "ZBIRNI CENTER": "n/a",
+       "NASLOV ZC": "n/a",
+       "ODPIRALNI ČAS": "n/a",
+       "POVEZAVA": "n/a"
+    },
+    "PIRAN": {
+       "KOMUNALA": "Okolje Piran",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "predložitev plačanega računa prejšnjega meseca",
+       "ZBIRNI CENTER": "ZC Dragonja",
+       "NASLOV ZC": "Sv. Peter, 6333 Sečovlje",
+       "ODPIRALNI ČAS": "pon-pet 6.00-17.00, sobota 7.00-12.00",
+       "POVEZAVA": "http://okoljepiran.si/wp-content/uploads/2015/02/Navodila-za-lo%C4%8Devanje-odpadkov.pdf"
+    },
+    "BISTRICA OB SOTLI": {
+       "KOMUNALA": "OKP Rogaška Slatina",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija s plačano položnico.",
+       "ZBIRNI CENTER": "ZC",
+       "NASLOV ZC": "pri čistilni napravi v Polju pri Bistrici",
+       "ODPIRALNI ČAS": "1. in 3. sobota v mesecu 9-13",
+       "POVEZAVA": "https://www.okp.si/index_jsnaga.php"
+    },
+    "KOZJE": {
+       "KOMUNALA": "OKP Rogaška Slatina",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija s plačano položnico.",
+       "ZBIRNI CENTER": "ZC Kozje",
+       "NASLOV ZC": "ob čistilni napravi",
+       "ODPIRALNI ČAS": "sre: 12-16, sob 9-13",
+       "POVEZAVA": "https://kozjansko.info/2009/11/v-kozjem-odprli-zbirni-center-za-locene-odpadke/"
+    },
+    "PODČETRTEK": {
+       "KOMUNALA": "OKP Rogaška Slatina",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija s plačano položnico.",
+       "ZBIRNI CENTER": "ZC Pristava pri Mestinju",
+       "NASLOV ZC": "n/a",
+       "ODPIRALNI ČAS": "sre 12-16, sob 9-13",
+       "POVEZAVA": "https://www.okp.si/index_jsnaga.php"
+    },
+    "ROGAŠKA SLATINA": {
+       "KOMUNALA": "OKP Rogaška Slatina",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija s plačano položnico.",
+       "ZBIRNI CENTER": "ZC Tuncovec",
+       "NASLOV ZC": "Tuncovec",
+       "ODPIRALNI ČAS": "pon-pet 8-16, sob 8-13",
+       "POVEZAVA": "https://www.okp.si/index_jsnaga.php"
+    },
+    "ROGATEC": {
+       "KOMUNALA": "OKP Rogaška Slatina",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija s plačano položnico.",
+       "ZBIRNI CENTER": "ZC Rogatec",
+       "NASLOV ZC": "n/a",
+       "ODPIRALNI ČAS": "pet 12-16",
+       "POVEZAVA": "https://www.okp.si/index_jsnaga.php"
+    },
+    "ŠMARJE PRI JELŠAH": {
+       "KOMUNALA": "OKP Rogaška Slatina",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija s plačano položnico.",
+       "ZBIRNI CENTER": "ZC Šmarje pri Jelšah",
+       "NASLOV ZC": "pri šmarski čistilni napravi",
+       "ODPIRALNI ČAS": "sre 12-16, sob 9-13",
+       "POVEZAVA": "https://kozjansko.info/2010/12/v-smarju-dobili-zbirni-center-za-loceno-zbiranje-odpadkov/"
+    },
+    "DOMŽALE": {
+       "KOMUNALA": "Prodnik",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "CRO Dob",
+       "NASLOV ZC": "v Gričevju Malenski boršt, 2 km južno od naselja Dob. Dostop je urejen po cesti mimo naselja Dob v smeri Gorjuše",
+       "ODPIRALNI ČAS": "Zimski: pon-pet 14-18, sobota 8-18; Letni: pon-pet14-20, sobota 8-20",
+       "POVEZAVA": "http://www.prodnik.si/ravnanje-z-odpadki/center-za-ravnanje-z-odpadki-dob"
+    },
+    "LUKOVICA": {
+       "KOMUNALA": "Prodnik",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "CRO Dob",
+       "NASLOV ZC": "v Gričevju Malenski boršt, 2 km južno od naselja Dob. Dostop je urejen po cesti mimo naselja Dob v smeri Gorjuše",
+       "ODPIRALNI ČAS": "Zimski: pon-pet 14-18, sobota 8-18; Letni: pon-pet14-20, sobota 8-20",
+       "POVEZAVA": "http://www.prodnik.si/ravnanje-z-odpadki/center-za-ravnanje-z-odpadki-dob"
+    },
+    "MENGEŠ": {
+       "KOMUNALA": "Prodnik",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "CRO Dob",
+       "NASLOV ZC": "v Gričevju Malenski boršt, 2 km južno od naselja Dob. Dostop je urejen po cesti mimo naselja Dob v smeri Gorjuše",
+       "ODPIRALNI ČAS": "Zimski: pon-pet 14-18, sobota 8-18; Letni: pon-pet14-20, sobota 8-20",
+       "POVEZAVA": "http://www.prodnik.si/ravnanje-z-odpadki/center-za-ravnanje-z-odpadki-dob"
+    },
+    "MORAVČE": {
+       "KOMUNALA": "Prodnik",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "CRO Dob",
+       "NASLOV ZC": "v Gričevju Malenski boršt, 2 km južno od naselja Dob. Dostop je urejen po cesti mimo naselja Dob v smeri Gorjuše",
+       "ODPIRALNI ČAS": "Zimski: pon-pet 14-18, sobota 8-18; Letni: pon-pet14-20, sobota 8-20",
+       "POVEZAVA": "http://www.prodnik.si/ravnanje-z-odpadki/center-za-ravnanje-z-odpadki-dob"
+    },
+    "TRZIN": {
+       "KOMUNALA": "Prodnik",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija",
+       "ZBIRNI CENTER": "CRO Dob",
+       "NASLOV ZC": "v Gričevju Malenski boršt, 2 km južno od naselja Dob. Dostop je urejen po cesti mimo naselja Dob v smeri Gorjuše",
+       "ODPIRALNI ČAS": "Zimski: pon-pet 14-18, sobota 8-18; Letni: pon-pet14-20, sobota 8-20",
+       "POVEZAVA": "http://www.prodnik.si/ravnanje-z-odpadki/center-za-ravnanje-z-odpadki-dob"
+    },
+    "KAMNIK": {
+       "KOMUNALA": "Publicus d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa. Do 2 avtomobilski prikolici letno brezplačno.",
+       "ZBIRNI CENTER": "ZC Suhadole",
+       "NASLOV ZC": "Suhadole 101, 1218 Komenda",
+       "ODPIRALNI ČAS": "poleti (1.3-30.9): pon-pet 6-19; pozimi (1.10-28.2):6-16; sob: 8-13 ",
+       "POVEZAVA": "http://www.publikus.si/vizitka-podjetja/"
+    },
+    "KOMENDA": {
+       "KOMUNALA": "Publicus d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa. Do 2 avtomobilski prikolici letno brezplačno.",
+       "ZBIRNI CENTER": "ZC Suhadole",
+       "NASLOV ZC": "Suhadole 101, 1218 Komenda",
+       "ODPIRALNI ČAS": "poleti (1.3-30.9): pon-pet 6-19; pozimi (1.10-28.2):6-16; sob: 8-13 ",
+       "POVEZAVA": "http://www.publikus.si/vizitka-podjetja/"
+    },
+    "PIVKA": {
+       "KOMUNALA": "Publicus d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa",
+       "ZBIRNI CENTER": "ZC Pivka",
+       "NASLOV ZC": "Neverke 31a, 6256 Košana",
+       "ODPIRALNI ČAS": "pon, sre, pet, sob: 8-15; tor, čet: 12-18",
+       "POVEZAVA": "http://www.publikus.si/vizitka-podjetja/"
+    },
+    "POSTOJNA": {
+       "KOMUNALA": "Publicus d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa",
+       "ZBIRNI CENTER": "ZC Postojna",
+       "NASLOV ZC": "ob odlagališču nenevarnih odpadkov Stara vas pri Postojni",
+       "ODPIRALNI ČAS": "pon-pet: 7-18, sob: 7-15",
+       "POVEZAVA": "https://www.postojna.si/post/80320"
+    },
+    "GORNJI GRAD": {
+       "KOMUNALA": "PUP Saubermacher",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa",
+       "ZBIRNI CENTER": "ZC Podhom",
+       "NASLOV ZC": "ob bivšem odlagališču nenevarnih komunalnih odpadkov Gornji Grad (najbližji naslov ZC je Podhom 7, Gornji Grad). Na cesti Grušovlje-Homec je tudi tabla Zbirni center Podhom.",
+       "ODPIRALNI ČAS": "tor 8-15.30, čet: 10-17, prva sob. v mesecu: 8-12",
+       "POVEZAVA": "http://www.pup-saubermacher.si/s/zbirni-centri/podhom/"
+    },
+    "LJUBNO": {
+       "KOMUNALA": "PUP Saubermacher",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa",
+       "ZBIRNI CENTER": "ZC Podhom",
+       "NASLOV ZC": "ob bivšem odlagališču nenevarnih komunalnih odpadkov Gornji Grad (najbližji naslov ZC je Podhom 7, Gornji Grad). Na cesti Grušovlje-Homec je tudi tabla Zbirni center Podhom.",
+       "ODPIRALNI ČAS": "tor 8-15.30, čet: 10-17, prva sob. v mesecu: 8-12",
+       "POVEZAVA": "http://www.pup-saubermacher.si/s/zbirni-centri/podhom/"
+    },
+    "LUČE": {
+       "KOMUNALA": "PUP Saubermacher",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa",
+       "ZBIRNI CENTER": "ZC Podhom",
+       "NASLOV ZC": "ob bivšem odlagališču nenevarnih komunalnih odpadkov Gornji Grad (najbližji naslov ZC je Podhom 7, Gornji Grad). Na cesti Grušovlje-Homec je tudi tabla Zbirni center Podhom.",
+       "ODPIRALNI ČAS": "tor 8-15.30, čet: 10-17, prva sob. v mesecu: 8-12",
+       "POVEZAVA": "http://www.pup-saubermacher.si/s/zbirni-centri/podhom/"
+    },
+    "NAZARJE": {
+       "KOMUNALA": "PUP Saubermacher",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa",
+       "ZBIRNI CENTER": "ZC Podhom",
+       "NASLOV ZC": "ob bivšem odlagališču nenevarnih komunalnih odpadkov Gornji Grad (najbližji naslov ZC je Podhom 7, Gornji Grad). Na cesti Grušovlje-Homec je tudi tabla Zbirni center Podhom.",
+       "ODPIRALNI ČAS": "tor 8-15.30, čet: 10-17, prva sob. v mesecu: 8-12",
+       "POVEZAVA": "http://www.pup-saubermacher.si/s/zbirni-centri/podhom/"
+    },
+    "SOLČAVA": {
+       "KOMUNALA": "PUP Saubermacher",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa",
+       "ZBIRNI CENTER": "ZC Podhom",
+       "NASLOV ZC": "ob bivšem odlagališču nenevarnih komunalnih odpadkov Gornji Grad (najbližji naslov ZC je Podhom 7, Gornji Grad). Na cesti Grušovlje-Homec je tudi tabla Zbirni center Podhom.",
+       "ODPIRALNI ČAS": "tor 8-15.30, čet: 10-17, prva sob. v mesecu: 8-12",
+       "POVEZAVA": "http://www.pup-saubermacher.si/s/zbirni-centri/podhom/"
+    },
+    "ŠMARTNO OB PAKI": {
+       "KOMUNALA": "PUP Saubermacher",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa",
+       "ZBIRNI CENTER": "ZM Šmartno ob Paki",
+       "NASLOV ZC": "ob pokopališču Šmartno ob Paki",
+       "ODPIRALNI ČAS": "1. in 3. sob v mesecu 9-12",
+       "POVEZAVA": "http://www.pup-saubermacher.si/s/zbirni-centri/sostanj-1/"
+    },
+    "ŠOŠTANJ": {
+       "KOMUNALA": "PUP Saubermacher",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa",
+       "ZBIRNI CENTER": "ZM Šoštanj",
+       "NASLOV ZC": "ob bivši trgovini Era - za gasilskim domom Šoštanj",
+       "ODPIRALNI ČAS": "2. in 4. sob v mesecu 9-12",
+       "POVEZAVA": "http://www.pup-saubermacher.si/s/zbirni-centri/sostanj-1/"
+    },
+    "VELENJE": {
+       "KOMUNALA": "PUP Saubermacher",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "osebni dokument in predložitev odrezka zadnjega računa",
+       "ZBIRNI CENTER": "ZC Velenje",
+       "NASLOV ZC": "ob Škalskem jezeru",
+       "ODPIRALNI ČAS": "(nov-feb)pon, sre, pet: 7-15, tor, čet: 7-16, sob 8-13; (mar-okt) pon-pet 7-18, sob 8-12",
+       "POVEZAVA": "http://www.pup-saubermacher.si/s/zbirni-centri/velenje-1/"
+    },
+    "BLOKE": {
+       "KOMUNALA": "Režijski obrat občine Bloke (V sodelovanju s Komunalo Ribnica)",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja brezplačna. Identifikacija.",
+       "ZBIRNI CENTER": "Mali log v Loškem potoku",
+       "NASLOV ZC": "za bencinskim servisom",
+       "ODPIRALNI ČAS": "sre: 15-17, sob 9-12",
+       "POVEZAVA": "https://www.komunala-ribnica.si/zbirni-center"
+    },
+    "GORENJA VAS - POLJANE": {
+       "KOMUNALA": "Režijski obrat Občine Goranja vas - Poljane",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "ZBIRNI CENTER": "ZC Todraž",
+       "NASLOV ZC": "Todraž, 4224 Gorenja vas",
+       "ODPIRALNI ČAS": "pon: 9-17, sre: 8-17, 2. sob 8-12",
+       "POVEZAVA": "http://www.obcina-gvp.si/sl/content/za-obcane/zbirni-center-todraz.html"
+    },
+    "BELTINCI": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Beltinci",
+       "NASLOV ZC": "ob čistilni napravi v Beltincih",
+       "ODPIRALNI ČAS": "pon: 13.30-17.30, sre: 9.30-13-30, sob: 8-12",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/obcina/beltinci_2"
+    },
+    "CANKOVA": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Cankova",
+       "NASLOV ZC": "ob čistilni napravi na Cankovi",
+       "ODPIRALNI ČAS": "sre (nov-mar): 15-17, (apr-okt) 15-18",
+       "POVEZAVA": "http://www.cankova.si/sl/page.asp?id_informacija=510&id_language=1&id_meta_type=39"
+    },
+    "ČRENŠOVCI": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Črenšovci",
+       "NASLOV ZC": "ob čistilni napravi v Srednji bistrici",
+       "ODPIRALNI ČAS": "pon: 11.00-13.30, čet: 14-16.30, 3. sob v mesecu: 9-11.30",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-crensovci"
+    },
+    "DOBROVNIK": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Dobrovnik/Dobrovnak",
+       "NASLOV ZC": "ob čistilni napravi v Dobrovnik/Dobrovnak",
+       "ODPIRALNI ČAS": "tor: 14.30-16, čet: 12-13.30, 4. sob v mesecu: 8.30-10",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-dobrovnik"
+    },
+    "GORNJI PETROVCI": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Šalovci",
+       "NASLOV ZC": "ob čistilni napravi v Šalovcih",
+       "ODPIRALNI ČAS": "sre:14-17, pet: 9-12, 1. sob v mesecu 9-11",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/obcina/salovci_2"
+    },
+    "GRAD": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Vidonci",
+       "NASLOV ZC": "ob centru za tujce Vidonci",
+       "ODPIRALNI ČAS": "sre:15-17.30, pet: 8-12, 1. sob v mesecu 9-11",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-vidonci"
+    },
+    "HODOŠ": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Šalovci",
+       "NASLOV ZC": "ob čistilni napravi v Šalovcih",
+       "ODPIRALNI ČAS": "sre:14-17, pet: 9-12, 1. sob v mesecu 9-11",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-salovci"
+    },
+    "KOBILJE": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Kobilje",
+       "NASLOV ZC": "ob čistilni napravi v Kobilju",
+       "ODPIRALNI ČAS": "tor: 16.30-17.30, čet: 10.30 - 11.30, 1. sob v mesecu: 9-10",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-kobilje"
+    },
+    "KUZMA": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Cankova",
+       "NASLOV ZC": "ob čistilni napravi na Cankovi",
+       "ODPIRALNI ČAS": "sre (nov-mar): 15-17, (apr-okt) 15-18",
+       "POVEZAVA": "http://www.cankova.si/sl/page.asp?id_informacija=510&id_language=1&id_meta_type=39"
+    },
+    "MORAVSKE TOPLICE": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Fokovci",
+       "NASLOV ZC": "za stavbo kmetijske zadruge v Fokovcih",
+       "ODPIRALNI ČAS": "pon: 14.30-16.30, čet: 8-10, 1. sob v mesecu: 10.30-12.30",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-fokovci"
+    },
+    "MURSKA SOBOTA": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Murska Sobota",
+       "NASLOV ZC": "ob čistilni napravi v Beltincih",
+       "ODPIRALNI ČAS": "pon-pet 9-18, sob 8-14",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-murska-sobota"
+    },
+    "ODRANCI": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Odranci",
+       "NASLOV ZC": "ob čistilni napravi v Odrancih",
+       "ODPIRALNI ČAS": "pon: 8.30-10, sre: 15-16.30, 4. sob v mesecu: 10.30-12",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-odranci"
+    },
+    "PUCONCI": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "CERO Punconci",
+       "NASLOV ZC": "Vaneča 81/b, 9201 Puconci",
+       "ODPIRALNI ČAS": "pon-pet: 6-18, sob: 7-12",
+       "POVEZAVA": "http://www.cerop.si/index.php/obdelava-odpadkov/obdelava-kosovnih-odpadkov"
+    },
+    "ROGAŠOVCI": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Murska Sobota",
+       "NASLOV ZC": "ob čistilni napravi v Beltincih",
+       "ODPIRALNI ČAS": "pon-pet 9-18, sob 8-14",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-murska-sobota"
+    },
+    "ŠALOVCI": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Šalovci",
+       "NASLOV ZC": "ob čistilni napravi v Šalovcih",
+       "ODPIRALNI ČAS": "sre:14-17, pet: 9-12, 1. sob v mesecu 9-11",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-salovci"
+    },
+    "TIŠINA": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Petanjci",
+       "NASLOV ZC": "na čistilni napravi v Petanjcih, Petanjci 64a, 9251 Tišina",
+       "ODPIRALNI ČAS": "tor: 8-10, pet: 14.30-16.30, 1. sob v mesecu: 9-11.00",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-petanjci"
+    },
+    "TURNIŠČE": {
+       "KOMUNALA": "Saubermacher Komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Turnišče",
+       "NASLOV ZC": "ob čistilni napravi v Turnišču",
+       "ODPIRALNI ČAS": "pon: 10.30-13, sre: 14-16.30, 2. sob v mesecu: 9-11.30",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/si/zbirni-centri/zbirni-center-turnisce"
+    },
+    "VELIKA POLANA": {
+       "KOMUNALA": "Saubermacher komunala",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "oddaja je brezplačna, identificirajo se z odrezkom komunalnih storitev",
+       "ZBIRNI CENTER": "Mala Polana",
+       "NASLOV ZC": "pri čistilni napravi",
+       "ODPIRALNI ČAS": "pon: 14-17, pet: 11-14",
+       "POVEZAVA": "https://www.saubermacher-komunala.si/kje-zbiramo-odpadke/velika-polana"
+    },
+    "BENEDIKT": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Lenart",
+       "NASLOV ZC": "Sp. Porčič 4/a, 2230 Lenart",
+       "ODPIRALNI ČAS": "pon-pet: 7-15, sre, 7-17, sob:7-12",
+       "POVEZAVA": "n/a"
+    },
+    "CERKVENJAK": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Lenart",
+       "NASLOV ZC": "Sp. Porčič 4/a, 2230 Lenart",
+       "ODPIRALNI ČAS": "pon-pet: 7-15, sre, 7-17, sob:7-12",
+       "POVEZAVA": "n/a"
+    },
+    "HOČE - SLIVNICA": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 2,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "brezplačno le pri akciji",
+       "ZBIRNI CENTER": "ZC Slivnica",
+       "NASLOV ZC": "naselje Slivnica, pri nadvozu",
+       "ODPIRALNI ČAS": "15.3-14.11: tor 13-18, sob 8-13; 15.11-14.3: tor 13-17, sob 9-13",
+       "POVEZAVA": "https://hoceslivnica.e-obcina.si/post/12087"
+    },
+    "LENART": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Lenart",
+       "NASLOV ZC": "Sp. Porčič 4/a, 2230 Lenart",
+       "ODPIRALNI ČAS": "pon-pet: 7-15, sre, 7-17, sob:7-12",
+       "POVEZAVA": "n/a"
+    },
+    "RADENCI": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Radenci",
+       "NASLOV ZC": "Boračeva (pri bivši žagi)",
+       "ODPIRALNI ČAS": "sob: 8-12",
+       "POVEZAVA": "https://radenci.si/wp-content/uploads/2016/10/Obcina-Radenci_Informator-1_2017.pdf"
+    },
+    "SVETA ANA": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Lenart",
+       "NASLOV ZC": "Sp. Porčič 4/a, 2230 Lenart",
+       "ODPIRALNI ČAS": "pon-pet: 7-15, sre, 7-17, sob:7-12",
+       "POVEZAVA": "n/a"
+    },
+    "SVETA TROJICA V SLOVENSKIH GORICAH": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Lenart",
+       "NASLOV ZC": "Sp. Porčič 4/a, 2230 Lenart",
+       "ODPIRALNI ČAS": "pon-pet: 7-15, sre, 7-17, sob:7-12",
+       "POVEZAVA": "n/a"
+    },
+    "SVETI JURIJ OB ŠČAVNICI": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Lenart",
+       "NASLOV ZC": "Sp. Porčič 4/a, 2230 Lenart",
+       "ODPIRALNI ČAS": "pon-pet: 7-15, sre, 7-17, sob:7-12",
+       "POVEZAVA": "https://www.saubermacher.si/fileadmin/user_upload/Files_SI/pdfs/koledar_odvoza/2018/SM_urnik_Sv.Jurij_ob_Scav_2018_Final_www.pdf"
+    },
+    "SVETI JURIJ V SLOVENSKIH GORICAH": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Lenart",
+       "NASLOV ZC": "Sp. Porčič 4/a, 2230 Lenart",
+       "ODPIRALNI ČAS": "pon-pet: 7-15, sre, 7-17, sob:7-12",
+       "POVEZAVA": "n/a"
+    },
+    "ŠENTILJ": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Šentrilj",
+       "NASLOV ZC": "na lokaciji čistilne naprave tik ob meji z avstrijo",
+       "ODPIRALNI ČAS": "čet 13-16, sob 8-12",
+       "POVEZAVA": "http://www.sentilj.si/komunala/#1451065883372-fdcbc4bd-7d08"
+    },
+    "VITANJE": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Zreče",
+       "NASLOV ZC": "kamnolom Trunkl, Zreče",
+       "ODPIRALNI ČAS": "(15.3-14.11) sre 14-18, sob 8-12; (15.11-14.3) sre 12-16, sob 8-12",
+       "POVEZAVA": "https://www.saubermacher.si/fileadmin/user_upload/Files_SI/pdfs/koledar_odvoza/2018/SM_urnik_Vitanje_2018_Final_www.pdf"
+    },
+    "ZREČE": {
+       "KOMUNALA": "Saubermacher Slovenija",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Zreče",
+       "NASLOV ZC": "kamnolom Trunkl, Zreče",
+       "ODPIRALNI ČAS": "(15.3-14.11) sre 14-18, sob 8-12; (15.11-14.3) sre 12-16, sob 8-12",
+       "POVEZAVA": "https://www.saubermacher.si/fileadmin/user_upload/Files_SI/pdfs/koledar_odvoza/2018/SM_urnik_Vitanje_2018_Final_www.pdf"
+    },
+    "BRASLOVČE": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Braslovče",
+       "NASLOV ZC": "Zbirni center za odpadke je v Podvrhu, v pokritem prostoru bivšega kmetijskega kompleksa Žovnek",
+       "ODPIRALNI ČAS": "sob: 8-13",
+       "POVEZAVA": "http://www.braslovce.si/Komunala/Odpadki"
+    },
+    "CELJE": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "RCERO Celje",
+       "NASLOV ZC": "Bukovžlak 30, 3221 Teharje",
+       "ODPIRALNI ČAS": "pon-pet: 6-20, sob: 6-14",
+       "POVEZAVA": "http://www.simbio.si/zbirni-centri"
+    },
+    "DOBJE": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "RCERO Celje",
+       "NASLOV ZC": "Bukovžlak 30, 3221 Teharje",
+       "ODPIRALNI ČAS": "pon-pet: 6-20, sob: 6-14",
+       "POVEZAVA": "http://www.simbio.si/zbirni-centri"
+    },
+    "DOBRNA": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Vojnik",
+       "NASLOV ZC": "Celjska cesta 55 (v Obrtno-poslovni coni Arclin)",
+       "ODPIRALNI ČAS": "sob: 8-12, letni čas: tor: 15-19, čet: 14-19 zimski čas: tor: 15-18, čet: 14-18",
+       "POVEZAVA": "https://m.mojaobcina.si/vojnik/novice/zbirni-center.html"
+    },
+    "POLZELA": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Polzela",
+       "NASLOV ZC": "pri kamnolomu Ekoplana",
+       "ODPIRALNI ČAS": "sob: 8-12",
+       "POVEZAVA": "http://www.simbio.si/zbirni-centri"
+    },
+    "PREBOLD": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Prebold",
+       "NASLOV ZC": "v Latkovi vasi v bližini podjetja Schiedel in Bisol",
+       "ODPIRALNI ČAS": "sob: 8-12, Letni čas: tor: 11-17, zimski čas: 11-16",
+       "POVEZAVA": "https://prebold.si/index.php/za-obcane/zbirni-center-odpadkov"
+    },
+    "ŠENTJUR": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "RCERO Celje",
+       "NASLOV ZC": "Bukovžlak 30, 3221 Teharje",
+       "ODPIRALNI ČAS": "pon-pet: 6-20, sob: 6-14",
+       "POVEZAVA": "http://www.simbio.si/zbirni-centri"
+    },
+    "ŠTORE": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "RCERO Celje",
+       "NASLOV ZC": "Bukovžlak 30, 3221 Teharje",
+       "ODPIRALNI ČAS": "pon-pet: 6-20, sob: 6-14",
+       "POVEZAVA": "http://www.simbio.si/zbirni-centri"
+    },
+    "TABOR": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Vransko - Tabor",
+       "NASLOV ZC": "na izvozu z avtoceste Celje – Ljubljana, v industrijski coni Vransko, kraj Čeplje, v bližini podjetja Petre šotori",
+       "ODPIRALNI ČAS": "sre: 14-18, sob: 8-12",
+       "POVEZAVA": "http://www.simbio.si/zbirni-centri"
+    },
+    "VOJNIK": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Vojnik",
+       "NASLOV ZC": "Celjska cesta 55 (v Obrtno-poslovni coni Arclin)",
+       "ODPIRALNI ČAS": "sob: 8-12, letni čas: tor: 15-19, čet: 14-19 zimski čas: tor: 15-18, čet: 14-18",
+       "POVEZAVA": "https://m.mojaobcina.si/vojnik/novice/zbirni-center.html"
+    },
+    "VRANSKO": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Vransko - Tabor",
+       "NASLOV ZC": "na izvozu z avtoceste Celje – Ljubljana, v industrijski coni Vransko, kraj Čeplje, v bližini podjetja Petre šotori",
+       "ODPIRALNI ČAS": "sre: 14-18, sob: 8-12",
+       "POVEZAVA": "http://www.simbio.si/zbirni-centri"
+    },
+    "ŽALEC": {
+       "KOMUNALA": "Simbio",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "identifikacija in plačana zadnja položnica za komunalne storitve",
+       "ZBIRNI CENTER": "ZC Žalec",
+       "NASLOV ZC": "Poslovna cona Nivo v Vrbju (nasproti Gorenje Surovine, d.o.o., PE Žalec, Ulica Savinjske čete 18, 3310 Žalec)",
+       "ODPIRALNI ČAS": "sob: 7-13, Letni čas: pon-pet: 10-18, zimski čas: 9-16",
+       "POVEZAVA": "http://www.simbio.si/zbirni-centri"
+    },
+    "BREZOVICA": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev. Kar je več na barje.",
+       "ZBIRNI CENTER": "Začasni ZC Brezovica",
+       "NASLOV ZC": "Kamnik pod Krimom 6, 1352 Preserje",
+       "ODPIRALNI ČAS": "sre: 15-18, sob 9-12",
+       "POVEZAVA": "https://www.jkp-brezovica.si/zbirni-center.html"
+    },
+    "CERKLJE NA GORENJSKEM": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev. Kar je več na barje.",
+       "ZBIRNI CENTER": "ZC Cerklje na Gorenjskem",
+       "NASLOV ZC": "ob novem gasilnem dobu v Cerkljah",
+       "ODPIRALNI ČAS": "sre:13-18, sob:8-13",
+       "POVEZAVA": "http://www.snaga.si/zbiranje-odvoz-odpadkov/zbirni-centri/zbirni-center-cerklje-na-gorenjskem"
+    },
+    "DOBROVA - POLHOV GRADEC": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev.",
+       "ZBIRNI CENTER": "ZC Barje",
+       "NASLOV ZC": "Cesta dveh cesarjev 101",
+       "ODPIRALNI ČAS": "1.4-31.10 pon-sob med 6-20 in od 1.11 do 31.3 od pon-sob 6-18",
+       "POVEZAVA": "http://www.snaga.si/zbiranje-odvoz-odpadkov/zbirni-centri/zbirni-center-barje"
+    },
+    "DOL PRI LJUBLJANI": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Barje",
+       "NASLOV ZC": "Cesta dveh cesarjev 101",
+       "ODPIRALNI ČAS": "1.4-31.10 pon-sob med 6-20 in od 1.11 do 31.3 od pon-sob 6-18",
+       "POVEZAVA": "http://www.snaga.si/zbiranje-odvoz-odpadkov/zbirni-centri/zbirni-center-barje"
+    },
+    "HORJUL": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, akcija, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Barje",
+       "NASLOV ZC": "Cesta dveh cesarjev 101",
+       "ODPIRALNI ČAS": "1.4-31.10 pon-sob med 6-20 in od 1.11 do 31.3 od pon-sob 6-18",
+       "POVEZAVA": "http://www.snaga.si/zbiranje-odvoz-odpadkov/zbirni-centri/zbirni-center-barje"
+    },
+    "IG": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev. Kar je več na barje.",
+       "ZBIRNI CENTER": "Začasni zbirni center Ig",
+       "NASLOV ZC": "Območje čistilne naprave Matena",
+       "ODPIRALNI ČAS": "1.4-31-10 sre 9-12 in 15-19, 2.11-31-3 sre 9-13 in 14-17",
+       "POVEZAVA": "http://www.snaga.si/zbiranje-odvoz-odpadkov/zbirni-centri/zacasni-zbirni-center-ig"
+    },
+    "LJUBLJANA": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev",
+       "ZBIRNI CENTER": "ZC Barje",
+       "NASLOV ZC": "Cesta dveh cesarjev 101",
+       "ODPIRALNI ČAS": "1.4-31.10 pon-sob med 6-20 in od 1.11 do 31.3 od pon-sob 6-18",
+       "POVEZAVA": "http://www.snaga.si/zbiranje-odvoz-odpadkov/zbirni-centri/zbirni-center-barje"
+    },
+    "MEDVODE": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev. Kar je več na barje.",
+       "ZBIRNI CENTER": "Začasni ZC Medvode",
+       "NASLOV ZC": "Dvorišče nekdanjega podjetja DONIT Medvode (vhod s Ceste komandanta Staneta)",
+       "ODPIRALNI ČAS": "sre:14-17, sob 9-12",
+       "POVEZAVA": "https://www.medvode.si/objava/120655"
+    },
+    "ŠKOFLJICA": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev. Kar je več na barje.",
+       "ZBIRNI CENTER": "Začasni ZC Škofljica",
+       "NASLOV ZC": "Pod viaduktom Reber pod avtocesto pred vasjo Reber",
+       "ODPIRALNI ČAS": "1.4-31-10 sre: 15-18, sob 9-12; 2.11-31-3 sre:14-16.30, sob 9-12",
+       "POVEZAVA": "http://www.snaga.si/zbiranje-odvoz-odpadkov/zbirni-centri/zacasni-zbirni-center-skofljica"
+    },
+    "VELIKE LAŠČE": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev. Kar je več na barje.",
+       "ZBIRNI CENTER": "Začasni zbirni center Turjak",
+       "ODPIRALNI ČAS": "sob: 8-12",
+       "POVEZAVA": "http://www.velike-lasce.si/arhiv-obcinskih-obvestil/489-zaasni-zbirni-center-turjak, http://www.velike-lasce.si/dejavnosti/komunala"
+    },
+    "VODICE": {
+       "KOMUNALA": "Snaga d.o.o.",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 1,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Do 3 m3 na leto, s plačano položnico za obračun komunalnih storitev. Kar je več na barje.",
+       "ZBIRNI CENTER": "Začasni ZC Vodice",
+       "NASLOV ZC": "pri čistilni napravi Vodice (do njega lahko dostopate s Kamniške ceste ali ceste Vodice-Bukovica)",
+       "ODPIRALNI ČAS": "1.5-30.9 sre 17-19 in sob 9-12, 1.10-30.4 sob 9-12",
+       "POVEZAVA": "https://www.vodice.si/objava/55233"
+    },
+    "KUNGOTA": {
+       "KOMUNALA": "Snaga MB",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z odrezkom komunalnih storitev in osebnim dokumentom.",
+       "ZBIRNI CENTER": "ZC ZG. Kungota",
+       "NASLOV ZC": "pod cerkvijo v Zg. Kungoti",
+       "ODPIRALNI ČAS": "poleti: sre 12-18, sob 9-18; pozimi sre 12-16, sob 9-16. sprememba s prestavitvijo ure",
+       "POVEZAVA": "http://www.kungota.si/komunalni-odpadki/delovni-cas-zbirnega-centra.aspx"
+    },
+    "LOVRENC NA POHORJU": {
+       "KOMUNALA": "snaga MB",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z odrezkom komunalnih storitev in osebnim dokumentom.",
+       "ZBIRNI CENTER": "ZC Lovrenc na Pohorju",
+       "NASLOV ZC": "za Tovarno kos in srpov",
+       "ODPIRALNI ČAS": "sre: 15-18, sob: 9-14",
+       "POVEZAVA": "http://www.snaga-mb.si/zbirni-centri/"
+    },
+    "MARIBOR": {
+       "KOMUNALA": "Snaga MB",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z odrezkom komunalnih storitev in osebnim dokumentom.",
+       "ZBIRNI CENTER": "ZC Lahova",
+       "NASLOV ZC": "na Teznu, na Lahovi ulici, tik pred podjetjem Gorenje Surovina",
+       "ODPIRALNI ČAS": "poleti: 7-19, pozimi 7-17; sob 8-15",
+       "POVEZAVA": "http://www.snaga-mb.si/zbirni-centri/"
+    },
+    "MIKLAVŽ NA DRAVSKEM POLJU": {
+       "KOMUNALA": "snaga MB",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z odrezkom komunalnih storitev in osebnim dokumentom.",
+       "ZBIRNI CENTER": "ZC Miklavž na Dr. polju",
+       "NASLOV ZC": "ob glavni cesti skozi občino, na desni strani kanala v smeri Ptuja",
+       "ODPIRALNI ČAS": "tor: 15-19, čet 15-19, sob 8-16",
+       "POVEZAVA": "http://www.snaga-mb.si/zbirni-centri/"
+    },
+    "PESNICA": {
+       "KOMUNALA": "snaga MB",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z odrezkom komunalnih storitev in osebnim dokumentom.",
+       "ZBIRNI CENTER": "ZC Pesnica",
+       "NASLOV ZC": "Pesniški Dvor",
+       "ODPIRALNI ČAS": "poleti(1.4-31.10) tor 12-18 sob 9-15; pozimi(1.11-31-3) tor 12-16, sob 9-16",
+       "POVEZAVA": "http://www.snaga-mb.si/zbirni-centri/"
+    },
+    "RUŠE": {
+       "KOMUNALA": "snaga MB",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z odrezkom komunalnih storitev in osebnim dokumentom.",
+       "ZBIRNI CENTER": "ZC Ruše",
+       "NASLOV ZC": "za bivšo tovarno dušika Ruše",
+       "ODPIRALNI ČAS": "tor, čet 12-18, sob 9-17",
+       "POVEZAVA": "http://www.snaga-mb.si/zbirni-centri/"
+    },
+    "SELNICA OB DRAVI": {
+       "KOMUNALA": "snaga MB",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z odrezkom komunalnih storitev in osebnim dokumentom.",
+       "ZBIRNI CENTER": "ZC Ruše",
+       "NASLOV ZC": "za bivšo tovarno dušika Ruše",
+       "ODPIRALNI ČAS": "tor, čet 12-18, sob 9-17",
+       "POVEZAVA": "http://www.snaga-mb.si/zbirni-centri/"
+    },
+    "STARŠE": {
+       "KOMUNALA": "snaga MB",
+       "NAČIN ZBIRANJA (zbirni center ALI naročilo ALI akcije ALI kontejner)": "Zbirni center, naročilo, kontejner",
+       "(0 = neomejeno, 1 = omejeno brezplačno, 2 = samo proti plačilu)": 0,
+       "POGOJI ZA BREZPLAČNO ODDAJO": "Identifikacija z odrezkom komunalnih storitev in osebnim dokumentom.",
+       "ZBIRNI CENTER": "ZC Starše",
+       "NASLOV ZC": "pod elektrarno",
+       "ODPIRALNI ČAS": "poleti(1.4-31.10) sre 11-19 sob 9-15; pozimi(1.11-31-3) sre 11-17, sob 9-14",
+       "POVEZAVA": "http://starse.si/index.php/sl/obcina-starse/zbirni-center"
+    }
+ }
