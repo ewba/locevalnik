@@ -1,4 +1,4 @@
-#!/bin/env python2
+# !/bin/env python3
 # calculates a frequency summary, optionally relative by waste type
 import csv
 import sys # exceptions
@@ -26,15 +26,15 @@ for line in reader:
 		try:
 			idx = int(v[0][1:])
 		except:
-			print 111, v
-			print 112, v[0]
+			print(111, v)
+			print(112, v[0])
 		if idx != i:
-			print "missing value!", idx, i
+			print("missing value!", idx, i)
 		val = int(v[1])
 		try:
 			total[idx-1][1][val] += 1
 		except:
-			print len(total), idx
+			print(len(total), idx)
 		i += 1
 
 # just copy values to jure.xls
@@ -46,6 +46,6 @@ for t in total:
 		out=""
 		for c in t[1]:
 			out+= str(float(c*100) / float(cnt))[:4] + " " 
-		print out
+		print(out)
 	else:
-		print t[0], t[1], cnt
+		print(t[0], t[1], cnt)
