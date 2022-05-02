@@ -1,7 +1,9 @@
 # !/bin/env python3
 # calculates a frequency summary, optionally relative by waste type
 import csv
-import sys # exceptions
+import json # needed for json import
+import os # needed to find working directory
+
 
 rel=True
 
@@ -11,10 +13,11 @@ for i in range(160):
 	total.append([0, list(tc)])
 	total[i][0] = i+1
 
-file = open("sezcist-20150606.csv", "rb")
-reader = csv.reader(file)
-for line in reader:
-	record = line[14]
+file = open(os.getcwd()+"\\assets\\data\\komunale.json", "rb")
+data = json.load(file)
+for line in data:
+	record = data[line]['odpadki']
+
 	# convert o123:2 to list
 	b = record.split(" ")
 	c = map(lambda v: v.split(":"), b)
