@@ -1,6 +1,6 @@
 # !/bin/env python3
 # calculates a frequency summary, optionally relative by waste type
-import csv
+import csv # needed to write to .csv
 import json # needed for json import
 import os # needed to find working directory
 
@@ -41,14 +41,23 @@ for line in data:
 		i += 1
 
 # just copy values to jure.xls
+result = []
 for t in total:
 	cnt = sum(t[1])
 	if cnt == 0:
 		continue
 	if rel:
 		out=""
+		out2 = []
 		for c in t[1]:
 			out+= str(float(c*100) / float(cnt))[:4] + " " 
+			out2.append(round(((c*100)/cnt),1))
 		print(out)
+		result.append(out2)
 	else:
 		print(t[0], t[1], cnt)
+
+# Save results to csv file 
+with open(os.getcwd()+"\\assets\\data\\cat-shares-new.csv", "w", newline='') as f:
+    writer = csv.writer(f)
+    writer.writerows(result)
