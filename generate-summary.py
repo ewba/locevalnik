@@ -1,8 +1,8 @@
 # !/bin/env python3
 # calculates a frequency summary, optionally relative by waste type
-import csv # needed to write to .csv
-import json # needed for json import
-import os # needed to find working directory
+import csv 
+import json 
+import os 
 
 
 rel=True
@@ -13,7 +13,7 @@ for i in range(160):
 	total.append([0, list(tc)])
 	total[i][0] = i+1
 
-file = open(os.getcwd()+"\\assets\\data\\komunale.json", "rb")
+file = open("komunale.json", "rb")
 data = json.load(file)
 for line in data:
 	record = data[line]['odpadki']
@@ -58,6 +58,6 @@ for t in total:
 		print(t[0], t[1], cnt)
 
 # Save results to csv file 
-with open(os.getcwd()+"\\assets\\data\\cat-shares-new.csv", "w", newline='') as f:
+with open(os.getcwd()+"/assets/data/cat-shares.csv", "w", newline='') as f:
     writer = csv.writer(f)
     writer.writerows(result)
