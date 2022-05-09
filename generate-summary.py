@@ -1,7 +1,9 @@
-#!/bin/env python2
+# !/bin/env python3
 # calculates a frequency summary, optionally relative by waste type
-import csv
-import sys # exceptions
+import csv 
+import json 
+import os 
+
 
 rel=True
 
@@ -11,10 +13,11 @@ for i in range(160):
 	total.append([0, list(tc)])
 	total[i][0] = i+1
 
-file = open("sezcist-20150606.csv", "rb")
-reader = csv.reader(file)
-for line in reader:
-	record = line[14]
+file = open("assets/data/komunale.json", "rb")
+data = json.load(file)
+for line in data:
+	record = data[line]['odpadki']
+
 	# convert o123:2 to list
 	b = record.split(" ")
 	c = map(lambda v: v.split(":"), b)
@@ -26,26 +29,36 @@ for line in reader:
 		try:
 			idx = int(v[0][1:])
 		except:
-			print 111, v
-			print 112, v[0]
+			print(111, v)
+			print(112, v[0])
 		if idx != i:
-			print "missing value!", idx, i
+			print("missing value!", idx, i)
 		val = int(v[1])
 		try:
 			total[idx-1][1][val] += 1
 		except:
-			print len(total), idx
+			print(len(total), idx)
 		i += 1
 
 # just copy values to jure.xls
+result = []
 for t in total:
 	cnt = sum(t[1])
 	if cnt == 0:
 		continue
 	if rel:
 		out=""
+		out2 = []
 		for c in t[1]:
 			out+= str(float(c*100) / float(cnt))[:4] + " " 
-		print out
+			out2.append(round(((c*100)/cnt),1))
+		print(out)
+		result.append(out2)
 	else:
-		print t[0], t[1], cnt
+		result.append(t[1])
+		print(t[0], t[1], cnt)
+
+# Save results to csv file 
+with open("assets/data/cat-shares.csv", "w", newline='') as f:
+    writer = csv.writer(f)
+    writer.writerows(result)
