@@ -55,6 +55,7 @@ for t in total:
 		print(out)
 		result.append(out2)
 	else:
+		result.append(t[1])
 		print(t[0], t[1], cnt)
 
 # Save results to csv file 
